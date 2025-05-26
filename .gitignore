@@ -38,7 +38,7 @@
 
 
 # PDF files
-# *.pdf
+*.pdf
 
 # Backup files
 *~
