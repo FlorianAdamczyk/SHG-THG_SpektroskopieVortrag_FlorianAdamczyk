@@ -1,0 +1,110 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{siunitx}
+\title{Second- and Third-Harmonic Generation in Nonlinear Optical Media}
+\author{Master Student of Physics}
+\date{May 26, 2025}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This report presents an overview of second- and third-harmonic generation (SHG and THG) as key phenomena in nonlinear optics, with emphasis on theoretical foundations, phase-matching techniques, experimental configurations, and applications in spectroscopy and microscopy.
+\end{abstract}
+
+\section{Introduction and Motivation}
+Nonlinear optical processes extend linear spectroscopy by enabling frequency conversion through intense electromagnetic fields interacting with matter. In particular, \emph{second-harmonic generation} (SHG) and \emph{third-harmonic generation} (THG) provide access to new spectral regions and high-resolution imaging capabilities. Applications include ultrafast laser pulse characterization, biological microscopy, and material property analysis.
+
+\section{Fundamentals of Nonlinear Polarization}
+The response of a dielectric medium to an applied electric field $E(t)$ can be expanded as:
+\begin{equation}
+P(t) = \varepsilon_0\bigl[\chi^{(1)}E(t) + \chi^{(2)}E^2(t) + \chi^{(3)}E^3(t) + \cdots\bigr],
+\end{equation}
+where $\chi^{(n)}$ denotes the $n$th-order nonlinear susceptibility tensor. The second-order term gives rise to SHG, generating polarization oscillating at $2\omega$, whereas the third-order term produces THG at $3\omega$ and other phenomena such as four-wave mixing.
+
+\subsection{Energy and Momentum Conservation}
+Efficient harmonic generation requires satisfaction of conservation laws:
+\begin{align}
+\text{Energy:} &\quad \hbar n\omega = \sum_i \hbar \omega_i, \
+\text{Momentum (phase matching):} &\quad n k(\omega) = k(n\omega) + \Delta k, \quad \Delta k = 0.
+\end{align}
+Here, $k(\omega)$ is the wavevector at frequency $\omega$ and $\Delta k$ quantifies the phase mismatch.
+
+\section{Second-Harmonic Generation (SHG)}
+SHG arises in noncentrosymmetric crystals through the second-order polarization:
+\begin{equation}
+P_i(2\omega) = \varepsilon_0 \sum_{jk} \chi^{(2)}{ijk} E_j(\omega)E_k(\omega).
+\end{equation}
+\subsection{Tensor Properties}
+The $\chi^{(2)}{ijk}$ tensor has specific nonzero components determined by crystal symmetry. For example, in a LiNbO$3$ crystal:
+\begin{table}[h!]
+\centering
+\begin{tabular}{lc}
+\toprule
+Component & Value (pm/V) \\
+\midrule
+$d_{31} = \chi^{(2)}_{311}$ & 4.5 \\
+$d_{33} = \chi^{(2)}_{333}$ & 27.0 \\
+\bottomrule
+\end{tabular}
+\caption{Selected nonlinear coefficients for LiNbO$_3$.}
+\end{table}
+
+\subsection{Phase-Matching Techniques}
+\textbf{Birefringent Phase Matching.} By exploiting crystal birefringence, one can choose ordinary and extraordinary polarizations to satisfy:
+\begin{equation}
+n k_o(\omega) = k_e(2\omega).
+\end{equation}
+\textbf{Quasi-Phase Matching.} Periodic poling in materials such as PPLN introduces a modulation of $\chi^{(2)}$ with period $\Lambda$, compensating phase mismatch via reciprocal vectors $G = 2\pi/\Lambda$.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{shg_phase_matching.png}
+\caption{Schematic of quasi-phase-matched SHG in a periodically poled crystal.}
+\end{figure}
+
+\section{Third-Harmonic Generation (THG)}
+THG is a third-order process present in both centrosymmetric and noncentrosymmetric media, described by:
+\begin{equation}
+P_i(3\omega) = \varepsilon_0 \sum_{jkl} \chi^{(3)}_{ijkl} E_j(\omega)E_k(\omega)E_l(\omega).
+\end{equation}
+
+\subsection{Phase Matching and Cascading}
+Perfect phase matching for THG is challenging; one may use
+\begin{itemize}
+\item \emph{Bulk phase matching}, adjusting dispersion via angle or temperature tuning.
+\item \emph{Cascading SHG processes}, where sequential $\chi^{(2)}$ interactions ($\omega \to 2\omega$, then $\omega+2\omega \to 3\omega$) effectively generate THG with enhanced efficiency.
+\end{itemize}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.6\textwidth]{thg_cascading.png}
+\caption{Energy-level diagram illustrating cascaded SHG and sum-frequency mixing to produce THG.}
+\end{figure}
+
+\section{Experimental Setup and Considerations}
+A typical setup for SHG/THG experiments includes:
+\begin{itemize}
+\item A femtosecond pulsed laser (e.g., Ti:sapphire, 800nm, 100fs)
+\item Beam-shaping and focusing optics (lenses or microscope objectives)
+\item Nonlinear crystal mounted on a rotation/temperature-controlled stage
+\item Filters or dichroic mirrors to separate fundamental and harmonic beams
+\end{itemize}
+Key challenges include crystal damage thresholds, beam walk-off, and maintaining spatial overlap. Temperature stabilization is often required for fine-tuning phase matching.
+
+\section{Applications}
+\subsection{SHG Microscopy}
+SHG provides intrinsic contrast in noncentrosymmetric biological structures (e.g., collagen), enabling label-free imaging.[Placeholder for experimental image]
+
+\subsection{Ultraviolet THG Spectroscopy}
+Tripling near-infrared lasers yields UV radiation for high-resolution absorption studies in materials science.
+
+\section{Summary and Outlook}
+We have reviewed the physical principles of SHG and THG, emphasizing the roles of $\chi^{(2)}$ and $\chi^{(3)}$ susceptibilities and phase-matching strategies. Future directions include integrated photonic waveguides with engineered dispersion and metasurfaces for enhanced harmonic conversion efficiencies.
+
+\end{document}
