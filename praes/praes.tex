@@ -1,5 +1,5 @@
-% \documentclass[aspectratio=169]{beamer} % 16:9 aspect ratio for modern screen
-\documentclass[handout]{beamer} % 16:9 aspect ratio for modern screen
+\documentclass[aspectratio=169]{beamer} % 16:9 aspect ratio for modern screen
+% \documentclass[handout]{beamer} % 16:9 aspect ratio for modern screen
 
 % Theme settings
 \usetheme[progressbar=foot]{metropolis} % Minimalist theme
@@ -75,30 +75,40 @@
 }
 
 % Title page settings
-\title{Presentation Title}
-\subtitle{Subtitle of the Presentation}
-\author{Florian Adamczyk}
-\date{\today}
+\title{Second- \& Third-Harmonic Generation}
+\subtitle{Frequenzverdopplung in der nichtlinearen Optik}
+\author{Florian Marius Adamczyk}
+\date{07.07.2025}
+\institute{Justus-Liebig-Universität Gießen \\ M.Sc. Modul \textbf{Spektroskopie} bei \textbf{PD Dr. Arash Rahimi-Iman, Dipl.-Ing.}\\ }
+\titlegraphic{\vspace{-1cm}\includegraphics[height=1.2cm]{Images/jlu_logo.jpg}}
 
 \begin{document}
 
     % Black slide
     \begin{frame}<handout:0>[plain, noframenumbering]
         \begin{tikzpicture}[remember picture, overlay]
-            \fill[black] (current page.south west) rectangle (current page.north east);
+          \fill[black] (current page.south west) rectangle (current page.north east);
         \end{tikzpicture}
-    \end{frame}
-
-    % Appetizer Slide
-    \begin{frame}<handout:0>[noframenumbering, plain]{Appetizer}
+        \pause
+        .
+        \pause
         \centering
-        \includegraphics[width=\textwidth, height=0.9\textheight, keepaspectratio]{atom.jpg}
-        \figciteweburl{Bonn.19.08.2021}
-        % \vspace{0.5cm}
-        % \begin{quote}
-        %{Stellen Sie sich vor, ...}
-        % \end{quote}
+        \only<3>{\includegraphics[width=0.9\textwidth]{Images/Copilot_20250706_224005.png}}
+        \only<4>{\includegraphics[width=0.9\textwidth]{Images/Copilot_20250706_215901.png}}
+        \\ \tiny \textcolor{gray}{von: \citetitle{Copilot.2025} -- \citefield{Copilot.2025}{note}}
     \end{frame}
+    % 1961 beobachteten der Physiker Peter Franken und seine Mitarbeiter an der University of Michigan einen merkwürdigen Effekt: Bei der Bestrahlung eines Quarzkristalls mit einem der ersten Rubinlaser bestand das transmittierte Licht nicht nur aus Strahlung der Laserwellenlänge 694 nm, sondern es trat auch UV-Licht der halben Wellenlänge 347 nm aus. Das war die erste Beobachtung eines nichtlinearen Effektes, der Frequenzverdopplung,[2] und gilt als die Geburtsstunde der nichtlinearen Optik.
+
+    % % Appetizer Slide
+    % \begin{frame}<handout:0>[noframenumbering, plain]{Appetizer}
+    %     \centering
+    %     \includegraphics[width=\textwidth, height=0.9\textheight, keepaspectratio]{Images/Copilot_20250706_215901.png}
+    %     \figciteweburl{Copilot.2025}
+    %     % \vspace{0.5cm}
+    %     % \begin{quote}
+    %     %{Stellen Sie sich vor, ...}
+    %     % \end{quote}
+    % \end{frame}
 
     % Title Slide
     \begin{frame}[noframenumbering, plain]
@@ -113,62 +123,19 @@
         \tableofcontents
     \end{frame}
     
-    \section{Section 1}
-    \begin{frame}{Slide 1}
-      \begin{figure}
-        \centering
-        \begin{minipage}{0.5\textwidth}
-          \centering
-          \includegraphics[width=\textwidth, keepaspectratio, height=0.85\textheight]{Standard_Model_of_Elementary_Particles_normal.png}\tiny
-          \\\citeauthortitleurl{Wikipedia.Standardmodell}\end{minipage}
-        \hfill \pause
-        \begin{minipage}{0.48\textwidth}
-          \begin{itemize}
-            \item first point \pause
-            \item second point \pause
-            \item third point \pause
-          \end{itemize}
-          \end{minipage}
-      \end{figure}
-    \end{frame}
-
-    \subsection{subsection 1}
-    \begin{frame}{Slide 2}
-      \begin{figure}
-        \centering
-        \begin{minipage}{0.5\textwidth}
-          \centering
-          \includegraphics[width=\linewidth, keepaspectratio, height=\textheight]{Standard_Model_of_Elementary_Particles_zoom2.png}\tiny
-          \\\citeauthortitleurl{Wikipedia.Standardmodell} \end{minipage}
-        \hfill
-        \begin{minipage}{0.48\textwidth}
-          \begin{itemize}\pause
-            \item Point one\pause
-            \item Point two\pause
-            \item Point three\pause
-            \item Point four
-          \end{itemize}
-          \end{minipage}
-      \end{figure}
-    \end{frame}
+    % presentation slides
     
-    \section{Section 2}
-    \begin{frame}{Fazit}
-        \begin{itemize}
-            \item Point one \pause
-            \item Point two \pause
-            \item Point three \pause
-            \item Point four
-        \end{itemize}
-      \centering
-      \includegraphics[width=\linewidth, height=0.46\textheight, keepaspectratio]{pentaquark model.png}
-      \figciteweburl{KennethHicks.2015}
-    \end{frame}
+
+
+
+
+
+
 
     % Thank You Slide
-    \begin{frame}<handout:0>{Thank you for your attention!}
+    \begin{frame}{Vielen Dank der Aufmerksamkeit!}
       \begin{center}
-        \Huge Questions?
+          \Huge Fragen?
       \end{center}
   \end{frame}
 
@@ -181,10 +148,10 @@
 
   \begin{frame}<handout:0>[noframenumbering, plain, allowframebreaks]{Anhang}
       \begin{minipage}{0.4\textwidth}
-        \textbf{Quarkzusammensetzung}
+        \textbf{Title}
         \begin{itemize}
-          \item point one \pause
-          \item point two \pause
+          \item point one
+          \item point two
           \item point three
         \end{itemize}
       \end{minipage}
@@ -194,16 +161,16 @@
       \end{minipage}
       
     \pagebreak
-      \includegraphics[height=0.9\textheight, width=\linewidth, keepaspectratio]{Images/90f0590a-0e4a-4d62-bd40-0bcce4be9feb.jpg}%\caption{C Amsler, T DeGrand et al 2017 - Quark Model.jpg}
+      \includegraphics[height=0.9\textheight, width=\linewidth, keepaspectratio]{Images/test_pattern.png}%\caption{C Amsler, T DeGrand et al 2017 - Quark Model.jpg}
       \figcite{C.Amsler.2017}
     
     \end{frame}
 
 
     
-%     % Bibliography    
-%     \begin{frame}[allowframebreaks, noframenumbering, plain]{Literaturverzeichnis}
-%    \printbibliography%[nottype=unpublished]
-%     \end{frame}
+    % Bibliography    
+  \begin{frame}[allowframebreaks, noframenumbering, plain]{Literaturverzeichnis}
+   \printbibliography%[nottype=unpublished]
+    \end{frame}
 
 \end{document}
