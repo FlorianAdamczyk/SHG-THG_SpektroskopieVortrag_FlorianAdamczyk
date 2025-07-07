@@ -1,0 +1,23 @@
+\documentclass[12pt]{article}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=2cm}
+\usepackage{parskip}
+\usepackage{hyperref}
+
+% Damit biblatex funktioniert, falls du Zitate in den Notes hast:
+\usepackage[backend=biber, style=authoryear-comp, sorting=nyt]{biblatex}
+\addbibresource{references.bib}
+
+% Beamer Notes importieren
+\usepackage{pgfpages}
+\usepackage{beamerarticle}
+\setjobnamebeamerversion{praes}
+
+\begin{document}
+
+\input{praes.tex}
+
+\end{document}
