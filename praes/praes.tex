@@ -3,7 +3,7 @@
 
 % Theme settings
 \usetheme[progressbar=foot]{metropolis} % Minimalist theme
-\metroset{progressbar=frametitle} % Progress bar soll nur folien mit titel berücksichtigen?
+\metroset{progressbar=frametitle} % Progress bar soll nur folien mit titel berücksichtigtigen?
 \setbeamercolor{background canvas}{bg=white} % White background color
 
 \makeatletter
@@ -172,7 +172,7 @@
   \begin{columns}[T,onlytextwidth]
     \column{0.38\textwidth}
       \includegraphics[height=0.8\textheight]{Images/Nonlinear response.png}
-      \figciteweb{Boyd2020}
+      {\tiny \figcite{Boyd2020}: \citetitle{Boyd2020}}
     \column{0.6\textwidth}
       \begin{itemize}
         \item Antwort eines Mediums auf sinusförmiges Feld
@@ -260,8 +260,8 @@
     \column{0.6\textwidth}
       \centering
       \includegraphics[width=0.98\textwidth]{Images/shg.png}\\
-      \small SHG: $\omega \rightarrow 2\omega$\\
-      {\tiny aus: \citeauthortitle{Boyd2020}}
+      \small SHG: $\omega \rightarrow 2\omega$
+      {\figcite{Boyd2020}}
   \end{columns}
 
   \vspace{0.2cm}
@@ -345,10 +345,207 @@
   }
 \end{frame}
 
+% --- Folie 8: Phasenanpassung (Phase Matching) ---
+
+\begin{frame}{Phasenanpassung (Phase Matching)}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.52\textwidth}
+      \begin{itemize}
+        \item Effiziente SHG/THG: Wellen müssen kohärent bleiben
+        \item \textbf{Bedingung:} $k(2\omega) = 2k(\omega)$
+        \item Ohne Phasenanpassung: geringe Effizienz
+        \item Kohärenzlänge: Phasenverlust-Abstand
+        \item Phasenanpassung: Birefringenz oder QPM
+        \item Typen: Kritisch (I/II), QPM
+      \end{itemize}
+    \column{0.46\textwidth}
+      \begin{center}
+      \animategraphics[autoplay,loop,width=0.95\columnwidth]{10}{Images/Phase Matching/imperfect}{001}{021}\\[-1mm]{\tiny Animation: Imperfektes Phasenmatching – die erzeugte Welle läuft außer Phase.}
+      \end{center}
+  \end{columns}
+  \note{
+    Für effiziente Frequenzkonversion müssen die erzeugte Welle und das Grundsignal phasenkohärent bleiben.\newline
+    Ist die Phasenanpassung nicht erfüllt ($k(2\omega) \neq 2k(\omega)$), kommt es zu destruktiver Interferenz und die Effizienz sinkt stark.\newline
+    Die Animation zeigt, wie sich bei imperfektem Phasenmatching die erzeugte Welle und das Grundsignal auseinanderlaufen.\newline
+    Die Kohärenzlänge ist der Abstand, nach dem die Phasenbeziehung verloren geht.\newline
+    Durch Doppelbrechung oder periodische Polung kann die Phasenanpassung gezielt eingestellt werden.
+  }
+\end{frame}
+
+% --- Folie 8b: Perfektes Phasenmatching (Animation) ---
+
+\begin{frame}{Perfektes Phasenmatching}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.52\textwidth}
+      \begin{itemize}
+        \item Phasenbeziehung bleibt erhalten: Wellen laufen synchron
+        \item Maximale Effizienz der Frequenzkonversion
+        \item Erreichbar durch exakte Einstellung von Kristallwinkel, Temperatur oder periodische Polung (QPM)
+        \item \textbf{QPM:} Die Ausrichtung der elektrischen Dipole wird periodisch umgekehrt (z.B. in Lithiumniobat)
+        \item Typ I/II (Birefringenz: Doppelbrechung)
+      \end{itemize}
+    \column{0.46\textwidth}
+      \begin{center}
+      \animategraphics[autoplay,loop,width=0.95\columnwidth]{10}{Images/Phase Matching/perfect}{001}{021}\\[-1mm]{\tiny Animation: Perfektes Phasenmatching}
+      \end{center}
+  \end{columns}
+  \note{
+    Bei perfektem Phasenmatching bleibt die erzeugte Welle immer in Phase mit dem Grundsignal.\newline
+    Dadurch addieren sich die Beiträge konstruktiv und die Effizienz der Frequenzkonversion ist maximal.\newline
+    In der Praxis wird dies durch exakte Einstellung des Kristallwinkels, der Temperatur oder durch periodische Polung (QPM) erreicht.\newline
+    Die \textbf{Ausrichtung der elektrischen Dipole in einem Material} (meist in nichtlinearen Kristallen wie Lithiumniobat) regelmäßig \textbf{in bestimmten Abständen umgekehrt wird}. Das bedeutet, die Polarisation des Materials wechselt periodisch zwischen zwei entgegengesetzten Richtungen.
+
+    \newline
+    Birefringenz bedeutet Doppelbrechung: Ein Material hat unterschiedliche Brechungsindizes für verschiedene Polarisationsrichtungen des Lichts. Das ist wichtig, um Phasenanpassung (Phase Matching) zu erreichen, damit nichtlineare optische Prozesse effizient ablaufen.
+
+Typ I und Typ II beschreiben, wie die Polarisationen der beteiligten Lichtwellen zueinander stehen:
+\begin{itemize}
+  \item \textbf{Typ I:} Zwei Photonen der gleichen Polarisation (z.B. beide senkrecht) erzeugen ein Photon mit doppelter Frequenz, das die entgegengesetzte Polarisation hat.
+  \item \textbf{Typ II:} Zwei Photonen unterschiedlicher Polarisation (z.B. eines senkrecht, eines waagerecht) erzeugen gemeinsam das neue Photon.
+\end{itemize}
+Zusammengefasst:
+Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Doppelbrechung bei nichtlinearen optischen Prozessen in Kristallen.
+
+    Die Animation zeigt, wie bei perfektem Phasenmatching die erzeugte Welle und das Grundsignal synchron laufen.
+  }
+\end{frame}
 
 
 
-    % Thank You Slide
+% --- Folie: Experimenteller Aufbau SHG/THG (Schema) ---
+
+
+
+% Folie 9: Experimenteller Aufbau (Schema)
+\begin{frame}{Experimenteller Aufbau: SHG/THG}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.55\textwidth}
+      \begin{itemize}
+        \item Starke Laserquelle (z.B. Nd:YAG, Ti:Sa, gepulst)
+        \item Strahlführung: Polarisation, Fokussierung auf Kristall
+        \item Nichtlinearer Kristall (z.B. BBO, KTP, LBO), drehbar für Phasenanpassung
+        \item Filter blockiert Grundwelle, lässt SHG/THG durch
+        \item Detektion: Photodiode oder Spektrometer
+      \end{itemize}
+    \column{0.43\textwidth}
+      \centering
+        % Hier ggf. Schemazeichnung einfügen
+        \includegraphics[width=0.95\textwidth]{Images/Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png}\\
+        {\tiny Experimenteller Aufbau zur Messung der SHG- und THG-Intensität in Abhängigkeit von der Laserenergie, \figcite{ResearchGate2025}}
+  \end{columns}
+  \note{
+    Für SHG/THG benötigt man eine starke, kohärente Laserquelle (oft gepulst, z.B. Nd:YAG 1064 nm oder Ti:Sa 800 nm).\newline
+    Der Strahl wird polarisiert und auf einen kleinen Spot im nichtlinearen Kristall fokussiert, um die Intensität zu erhöhen.\newline
+    Typische Kristalle: BBO, KTP, LBO, je nach gewünschter Wellenlänge und Phase-Matching-Bedingung.\newline
+    Nach dem Kristall werden Filter eingesetzt, die das Grundsignal blockieren und nur die erzeugte Harmonische durchlassen.\newline
+    Die Detektion erfolgt meist mit einer Photodiode oder einem Spektrometer.\newline
+    Die Effizienz hängt von Polarisation, Winkel und Temperatur des Kristalls ab.
+  }
+\end{frame}
+
+% Folie 10: Komponenten und Messung
+\begin{frame}{Komponenten und Messung}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.55\textwidth}
+      \begin{itemize}
+        \item \textbf{Laser:} Pulsdauer, Wellenlänge, Leistung
+        \item \textbf{Kristall:} Material, Dicke, Temperatur, Ausrichtung!
+        \item \textbf{Messung:} Intensität der Harmonischen in Abhängigkeit von Polarisation, Winkel, Leistung
+        \item Typisch: Quadratische Abhängigkeit für SHG ($I_{SHG} \propto P^2$)
+      \end{itemize}
+    \column{0.43\textwidth}
+      \centering
+      \includegraphics[height=0.8\textheight]{Images/PXL_20250318_131716572.NIGHT.jpg}
+      {\figcite{Adamczyk2025}}
+  \end{columns}
+  \note{
+    Die wichtigsten Komponenten sind Laser, Kristall, Strahlführung, Filter und Detektor.\newline
+    Die Polarisation und der Winkel des Kristalls werden so eingestellt, dass das Phasenmatching optimal ist.\newline
+    Die Intensität der erzeugten Harmonischen wird gemessen und z.B. gegen die Eingangsleistung oder den Kristallwinkel aufgetragen.\newline
+    Typisch ist eine quadratische Abhängigkeit der SHG-Intensität von der Eingangsleistung.\newline
+    Für THG ist die Abhängigkeit kubisch.\newline
+    Die Messung kann mit einem Spektrometer oder einer Photodiode erfolgen.\newline
+    Filter sind wichtig, um das Grundsignal zu unterdrücken und nur die Harmonische zu detektieren.
+  }
+\end{frame}
+
+
+
+% --- Folie: Anwendungen und Beispiele (SHG/THG) ---
+
+\begin{frame}{Anwendungen und Beispiele: SHG/THG}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.52\textwidth}
+      \begin{itemize}
+        \item Grüne Laserpointer (SHG, 532 nm)
+        \item Oberflächen-/Grenzflächenspektroskopie
+        \item SHG-Mikroskopie: z.B. Kollagen, Gewebe
+        \item THG-Mikroskopie: label-free Imaging
+        \item Frequenzkonversion: neue Laserfarben
+        \item Materialcharakterisierung ($\chi^{(2)}$, $\chi^{(3)}$)
+      \end{itemize}
+    \column{0.46\textwidth}
+      \centering
+      \includegraphics[width=0.98\textwidth]{Images/THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png}\\
+      {\tiny SHG/THG-Mikroskopie am Zebrafisch-Embryo\figciteweb{ResearchGateZebrafish2009}}
+  \end{columns}
+  \note{
+    \textbf{SHG-Anwendungen:}
+    \begin{itemize}
+      \item Grüne Laserpointer nutzen SHG, um aus einem IR-Laser (1064 nm) sichtbares Licht (532 nm) zu erzeugen.
+      \item In der Oberflächen- und Grenzflächenspektroskopie ist SHG besonders sensitiv, da nur nicht-zentrosymmetrische Bereiche (z.B. Oberflächen, Grenzflächen) ein Signal liefern. So lassen sich z.B. Monolagen oder Adsorbate an Oberflächen untersuchen.
+      \item SHG-Mikroskopie wird in der Biologie genutzt, um Strukturen wie Kollagenfasern sichtbar zu machen. Da SHG nur in bestimmten Geweben auftritt, ist die Bildgebung sehr selektiv und benötigt keine Fluoreszenzmarker.
+    \end{itemize}
+    \textbf{THG-Anwendungen:}
+    \begin{itemize}
+      \item THG-Mikroskopie ermöglicht label-freie Bildgebung, da das Signal an Grenzflächen und Brechungsindex-Übergängen entsteht (z.B. Zellmembranen, Lipidtröpfchen).
+      \item In der Materialcharakterisierung kann über die Intensität der THG das $\chi^{(3)}$ eines Materials bestimmt werden.
+    \end{itemize}
+    \textbf{Beispielbild Zebrafisch-Embryo:}
+    \begin{itemize}
+      \item Gezeigt werden THG- und SHG-Signale im Zebrafisch-Embryo während der Furchungsstadien.
+      \item THG hebt Grenzflächen wie das Dotter-Blastoderm-Interface, Zellgrenzen und Organellen hervor (z.B. weiße Pfeilspitzen, verschiedene NA und Projektionen).
+      \item SHG macht Strukturen wie Kollagen oder die Dynamik der Zellteilung sichtbar (z.B. Intensitätsverlauf während Mitose).
+      \item Die Bildgebung ist komplett label-free und nutzt unterschiedliche numerische Aperturen (NA) für verschiedene Details.
+      \item Die Kombination von SHG, THG und 2-Photonen-Fluoreszenz (2PEF) erlaubt die Rekonstruktion von Zellgrenzen, Vesikeln und Membranen in hoher Auflösung.
+    \end{itemize}
+    \textbf{Allgemein:}
+    \begin{itemize}
+      \item Frequenzkonversion (SHG/THG) erweitert das Farbspektrum von Lasern und ist für viele Anwendungen in der Spektroskopie, Medizin und Mikroskopie essenziell.
+    \end{itemize}
+  }
+\end{frame}
+
+% --- Folie: Zusammenfassung und Ausblick ---
+
+\begin{frame}{Zusammenfassung und Ausblick}
+  \begin{itemize}
+    \item SHG: 2$\omega$ ($\chi^{(2)}$) – nur in nichtzentrosymmetrischen Medien
+    \item THG: 3$\omega$ ($\chi^{(3)}$) – überall möglich
+    \item Effizient nur mit starken Lasern + Phasenanpassung
+    \item Anwendungen: Laser (sichtbar), Mikroskopie, Spektroskopie
+    \item Ausblick: Höhere Harmonische (z.B. HHG) möglich
+  \end{itemize}
+  \note{
+    \textbf{Kernpunkte:}
+    \begin{itemize}
+      \item Nichtlineare Optik ermöglicht die Erzeugung neuer Lichtfrequenzen durch Prozesse wie SHG (Frequenzverdopplung) und THG (Frequenzverdreifachung).
+      \item SHG ist nur in nicht-zentrosymmetrischen Materialien möglich, da $\chi^{(2)}$ dort ungleich null ist. THG kann in allen Medien auftreten, da $\chi^{(3)}$ immer existiert.
+      \item Für eine effiziente Umsetzung sind starke, meist gepulste Laser und exaktes Phasenmatching nötig.
+      \item Anwendungen reichen von der Erzeugung sichtbaren Lichts (z.B. grüne Laserpointer) über die nichtlineare Mikroskopie (SHG/THG Imaging) bis zur Materialanalyse und Spektroskopie.
+      \item Die Frequenzkonversion erweitert das nutzbare Spektrum von Lasern und ist für viele moderne Technologien essenziell.
+    \end{itemize}
+    \textbf{Ausblick:}
+    \begin{itemize}
+      \item Neben SHG und THG gibt es noch höhere Harmonische (z.B. HHG – High Harmonic Generation), die aber zunehmend komplexere Bedingungen und noch höhere Intensitäten erfordern.
+      \item Die Forschung an neuen Materialien und Techniken (z.B. Quasi-Phasenmatching, Nanostrukturen) eröffnet ständig neue Anwendungen.
+    \end{itemize}
+    Vielen Dank für Ihre Aufmerksamkeit!\newline
+    Fragen?
+  }
+\end{frame}
+
+ % Thank You Slide
     \begin{frame}{Vielen Dank der Aufmerksamkeit!}
       \begin{center}
           \Huge Fragen?
@@ -362,28 +559,152 @@
   \end{tikzpicture}
 \end{frame}
 
-  \begin{frame}<handout:0>[noframenumbering, plain, allowframebreaks]{Anhang}
-      \begin{minipage}{0.4\textwidth}
-        \textbf{Title}
-        \begin{itemize}
-          \item point one
-          \item point two
-          \item point three
-        \end{itemize}
-      \end{minipage}
-      \hfill
-      \begin{minipage}{0.58\textwidth}
-        asfd
-      \end{minipage}
-      
-    \pagebreak
-      \includegraphics[height=0.9\textheight, width=\linewidth, keepaspectratio]{Images/test_pattern.png}%\caption{C Amsler, T DeGrand et al 2017 - Quark Model.jpg}
-      \figcite{C.Amsler.2017}
-    
-    \end{frame}
+% --- Anhang: SHG vs. Zweiphotonenabsorption (TPA) ---
 
+\begin{frame}{SHG ist nicht gleich Zweiphotonenabsorption (TPA)}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.48\textwidth}
+      \begin{itemize}
+        \item SHG: Kohärenter, \textbf{parametrischer} Prozess
+        \item TPA: Nichtkohärent, \textbf{nichtparametrisch}
+        \item SHG: Virtuelle Zustände, keine echte Anregung
+        \item TPA: Reale Zwischenzustände, echte Absorption
+        \item SHG: Signal bei $2\omega$ messen
+        \item TPA: Transmission bei $\omega$ messen
+      \end{itemize}
+    \column{0.56\textwidth}
+      \centering
+      \only<1>{\includegraphics[width=0.98\textwidth]{Images/shg vs tpa.png}\\[-1mm]{\tiny SHG vs. TPA: Prinzipdarstellung, \figcite{Zhang2020}}}
+      \only<2>{\includegraphics[width=0.8\textwidth]{Images/40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg}\\[-1mm]{\tiny Energieniveaus: SHG (oben), TPA (unten) \cite{Bhattacharya2012}}}
+  \end{columns}
+  \note{
+    \textbf{SHG (Second Harmonic Generation):}
+    \begin{itemize}
+      \item Zwei Photonen werden im nichtzentrosymmetrischen Medium kohärent zu einem Photon mit doppelter Frequenz kombiniert.
+      \item Die Elektronen werden dabei nur in virtuelle Zustände angeregt – es findet keine echte Absorption statt.
+      \item SHG ist ein \textbf{parametrischer} Prozess: Energie und Impuls werden erhalten, aber es gibt keinen Netto-Übergang zwischen echten Zuständen.
+      \item Das Signal wird bei $2\omega$ detektiert.
+    \end{itemize}
+    \textbf{TPA (Zweiphotonenabsorption):}
+    \begin{itemize}
+      \item Zwei Photonen werden gleichzeitig absorbiert und heben das Elektron in einen echten angeregten Zustand.
+      \item Es findet echte Absorption statt, gefolgt ggf. von Relaxation oder Fluoreszenz.
+      \item TPA ist ein \textbf{nichtparametrischer} Prozess und drittordnungs-nonlinear ($\chi^{(3)}$).
+      \item Das Signal wird als Änderung der Transmission bei $\omega$ gemessen.
+    \end{itemize}
+    \textbf{Weitere Unterschiede:}
+    \begin{itemize}
+      \item SHG ist nur in nichtzentrosymmetrischen Medien möglich ($\chi^{(2)}$), TPA überall ($\chi^{(3)}$).
+      \item SHG ist kohärent (phasengekoppelt), TPA nicht.
+      \item In der Praxis: SHG erzeugt Licht bei neuer Frequenz, TPA führt zu Absorption und ggf. Fluoreszenz.
+    \end{itemize}
+    \textbf{Bilderklärung:}
+    \begin{itemize}
+      \item Erstes Bild: Schematischer Vergleich der Prozesse (SHG: Wellenüberlagerung, TPA: echte Anregung).
+      \item Zweites Bild: Energieniveaus – oben SHG (virtuelle Zustände), unten TPA (reale Zustände).
+      \item Durch Klicken wird das zweite Bild eingeblendet.
+    \end{itemize}
+    \textbf{Literatur:} Robert Boyd, Nonlinear Optics.
+  }
+\end{frame}
 
-    
+% --- Anhang: Sequential THG und High Harmonic Generation (HHG) ---
+
+\begin{frame}{Sequential THG und High Harmonic Generation (HHG)}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.48\textwidth}
+      \includegraphics[width=0.98\textwidth]{Images/seq_thg.png}\\[-1mm]{\tiny Sequential THG \figcite{Boyd2020}}
+    \column{0.48\textwidth}
+      \includegraphics[width=0.98\textwidth]{Images/hhg.png}\\[-1mm]{\tiny High Harmonic Generation \figcite{Boyd2020}}
+  \end{columns}
+  \vspace{0.2cm}
+  \begin{itemize}
+    \item Sequential THG: Mehrstufige Frequenzkonversion (z.B. $\omega \rightarrow 2\omega \rightarrow 3\omega$)
+    \item HHG: Erzeugung sehr hoher Harmonischer (bis XUV), starker Laser nötig
+    \item HHG: Nichtlinear, nichtperturbativ, Tunnelionisation
+  \end{itemize}
+  \note{
+    \textbf{Sequential THG:}
+    \begin{itemize}
+      \item Die dritte Harmonische kann auch sequentiell erzeugt werden: Erst SHG ($\omega \rightarrow 2\omega$), dann Sum-Frequenz-Generation ($\omega + 2\omega \rightarrow 3\omega$).
+      \item Vorteil: Effizienter in manchen Materialien, da jede Stufe optimiert werden kann.
+      \item Bild links: Schematische Darstellung der sequentiellen Prozesse.
+    \end{itemize}
+    \textbf{High Harmonic Generation (HHG):}
+    \begin{itemize}
+      \item Bei sehr hohen Intensitäten (starke Femtosekundenlaser) können noch viel höhere Harmonische (bis ins Extreme UV) erzeugt werden.
+      \item HHG ist ein nichtperturbativer Prozess: Das Elektron wird durch das starke Feld ionisiert, beschleunigt und rekombiniert, wobei ein hochenergetisches Photon emittiert wird.
+      \item Typisch für Attosekunden-Pulsquellen und moderne Laserspektroskopie.
+      \item Bild rechts: Schematische Darstellung des HHG-Prozesses.
+    \end{itemize}
+    \textbf{Quellen:} Boyd, Nonlinear Optics.
+  }
+\end{frame}
+
+% --- Anhang: Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG) ---
+
+\begin{frame}{Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.48\textwidth}
+      \includegraphics[width=0.98\textwidth]{Images/sum-freq.png}\\[-1mm]{\tiny Sum-Frequenz-Generation (SFG) \figcite{Boyd2020}}
+    \column{0.48\textwidth}
+      \includegraphics[width=0.98\textwidth]{Images/diff-freq.png}\\[-1mm]{\tiny Differenz-Frequenz-Generation (DFG) \figcite{Boyd2020}}
+  \end{columns}
+  \vspace{0.2cm}
+  \begin{itemize}
+    \item \textbf{SFG:} Zwei Photonen unterschiedlicher Frequenz ($\omega_1$, $\omega_2$) erzeugen ein Photon mit $\omega_3 = \omega_1 + \omega_2$
+    \item \textbf{DFG:} Zwei Photonen ($\omega_1$, $\omega_2$) erzeugen ein Photon mit $\omega_3 = |\omega_1 - \omega_2|$
+    \item Beide Prozesse: Nichtlinear ($\chi^{(2)}$), benötigen starke Felder und Phasenanpassung
+  \end{itemize}
+  \note{
+    \textbf{Sum-Frequenz-Generation (SFG):}
+    \begin{itemize}
+      \item Zwei Photonen unterschiedlicher Frequenz ($\omega_1$, $\omega_2$) werden im nichtlinearen Medium zu einem Photon mit der Summe der Frequenzen ($\omega_3 = \omega_1 + \omega_2$) kombiniert.
+      \item SFG wird z.B. zur Erzeugung neuer Laserwellenlängen genutzt, wenn die gewünschte Frequenz nicht direkt verfügbar ist.
+      \item Bild links: Schematische Darstellung des SFG-Prozesses.
+    \end{itemize}
+    \textbf{Differenz-Frequenz-Generation (DFG):}
+    \begin{itemize}
+      \item Zwei Photonen ($\omega_1$, $\omega_2$) erzeugen ein Photon mit der Differenzfrequenz ($\omega_3 = |\omega_1 - \omega_2|$).
+      \item DFG wird z.B. zur Erzeugung von Terahertz- oder Infrarotstrahlung verwendet.
+      \item Bild rechts: Schematische Darstellung des DFG-Prozesses.
+    \end{itemize}
+    \textbf{Beide Prozesse:}
+    \begin{itemize}
+      \item SFG und DFG sind wie SHG Prozesse zweiter Ordnung ($\chi^{(2)}$) und benötigen starke Felder sowie exaktes Phasenmatching.
+      \item Sie sind wichtige Werkzeuge zur Erweiterung des spektralen Bereichs von Lasern und für die nichtlineare Spektroskopie.
+    \end{itemize}
+    \textbf{Quelle:} Boyd, Nonlinear Optics.
+  }
+\end{frame}
+
+\begin{frame}{SHG: Propagation und Oberflächen-SHG}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.48\textwidth}
+      \centering
+      \includegraphics[height=0.28\textheight]{Images/propagation distance.png}\\
+      {\tiny SHG-Intensität in Abhängigkeit von der Propagationsdistanz. \figcite{Boyd2020}}
+      \vspace{0.4cm}
+
+      \includegraphics[height=0.46\textheight]{Images/surface-shg.png}\\
+      {\tiny Schematische Darstellung: Oberflächen-SHG. \figcite{Boyd2020}}
+
+    \column{0.48\textwidth}
+      \centering
+      \includegraphics[height=0.28\textheight]{Images/wavevector mismatch.png}\\
+      {\tiny Emission bei schlechtem Phase-Matching $\Delta k$. \figcite{Boyd2020}}
+      \vspace{0.4cm}
+
+      \includegraphics[height=0.5\textheight]{Images/PXL_20250227_153205340.jpg}
+      {\tiny \figciteweb{Adamczyk2025}}
+      \vspace{0.3cm}
+  \end{columns}
+
+  \note{
+    Die Abbildungen zeigen typische Aspekte der SHG: Links oben die Intensitätsentwicklung entlang der Propagationsstrecke, darunter die Rolle des Wellenvektormismatchs an Oberflächen. Rechts oben die Definition der Kohärenzlänge, darunter ein Schema für Oberflächen-SHG. Alle Bilder aus Boyd, Nonlinear Optics.
+  }
+\end{frame}
+
     % Bibliography    
   \begin{frame}[allowframebreaks, noframenumbering, plain]{Literaturverzeichnis}
    \printbibliography%[nottype=unpublished]
