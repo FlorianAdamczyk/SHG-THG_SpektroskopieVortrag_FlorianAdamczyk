@@ -52,9 +52,9 @@
 \renewcommand\footnotesize{\tiny}
 \makeatother
 
-\newcommand{\figcite}[1]{\\[-3mm]{\tiny Quelle: \cite{#1}}}
-\newcommand{\figciteweb}[1]{\\[-3mm]{\tiny aus: \citeauthortitle{#1}}}
-\newcommand{\figciteweburl}[1]{\\[-3mm]{\tiny aus: \citeauthortitleurl{#1}}}
+\newcommand{\figcite}[1]{\\[0mm]{\tiny Quelle: \cite{#1}}}
+\newcommand{\figciteweb}[1]{\\[0mm]{\tiny aus: \citeauthortitle{#1}}}
+\newcommand{\figciteweburl}[1]{\\[0mm]{\tiny aus: \citeauthortitleurl{#1}}}
 
 \usepackage{pdfpages}
 
@@ -143,17 +143,11 @@ Bei der SHG verschmelzen zwei Photonen der Frequenz $\omega$ zu einem Photon mit
 P^{(2)}(2\omega) = \varepsilon_0 \chi^{(2)} E(\omega)^2
 \end{equation}
 
-\begin{figure}[!ht]
-\centering
-\includegraphics[width=0.95\columnwidth]{../praes/Images/Electron_asymmetric_motion_animation/frame001.png}
-\caption{Elektronenbewegung im anharmonischen Potential: Neben der Grundfrequenz entstehen neue Frequenzen.\figciteweburl{Sbyrnes3212014}}
-\end{figure}
-
 Typische Kristalle: BBO, KTP, KDP, LBO. Effiziente SHG erfordert starke, gepulste Laser und exakte Ausrichtung.
 
 \begin{figure}[!ht]
 \centering
-\includegraphics[width=0.95\columnwidth]{../praes/Images/Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png}
+\includegraphics[width=0.6\columnwidth]{../praes/Images/Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png}
 \caption{Schematische Darstellung: Einfallende Welle erzeugt zweite Harmonische im nichtlinearen Medium.\figciteweburl{BPAegirsson2017}}
 \end{figure}
 
@@ -198,11 +192,7 @@ Für effiziente Frequenzkonversion müssen Grund- und Harmonische phasenkohären
 \caption{SHG: $\omega \rightarrow 2\omega$. Die Grafik illustriert die Energieumwandlung.\figcite{Boyd2020}}
 \end{figure}
 
-\begin{figure}[!ht]
-\centering
-\includegraphics[width=0.7\columnwidth]{../praes/Images/TypeX_SHG.png}
-\caption{Verschiedene Typen der Phasenanpassung bei SHG.\figciteweburl{PhasemathingImage}}
-\end{figure}
+
 
 %----------------------------------------------------------
 
@@ -229,6 +219,48 @@ SHG-Mikroskopie nutzt die nichtlineare Antwort von Strukturen wie Kollagen für 
 
 \section{Zusammenfassung und Ausblick}
 SHG und THG sind fundamentale Prozesse der nichtlinearen Optik. Die Effizienz hängt von Material, Symmetrie und Phasenanpassung ab. Anwendungen reichen von der Lasertechnik bis zur Biophysik.
+
+%----------------------------------------------------------
+
+\section{Komponenten und Messung}
+Die wichtigsten Komponenten eines SHG/THG-Experiments sind:
+\begin{itemize}
+    \item \textbf{Laser:} Pulsdauer, Wellenlänge, Leistung (z.B. Nd:YAG 1064 nm, Ti:Sa 800 nm)
+    \item \textbf{Kristall:} Material (BBO, KTP, LBO), Dicke, Temperatur, Ausrichtung
+    \item \textbf{Strahlführung:} Polarisation, Fokussierung auf den Kristall
+    \item \textbf{Filter:} Blockieren das Grundsignal, lassen nur die Harmonische durch
+    \item \textbf{Detektor:} Photodiode oder Spektrometer
+\end{itemize}
+Die Intensität der erzeugten Harmonischen wird typischerweise gegen die Eingangsleistung oder den Kristallwinkel gemessen. Für SHG ist die Abhängigkeit quadratisch ($I_{SHG} \propto P^2$), für THG kubisch.
+
+
+%----------------------------------------------------------
+
+\section{Weitere Spezialfälle und Prozesse}
+\subsection{Sequential THG und HHG}
+Bei Sequential THG erfolgt die Frequenzverdreifachung in mehreren Stufen ($\omega \rightarrow 2\omega \rightarrow 3\omega$). High Harmonic Generation (HHG) ist ein nichtlinearer, nichtperturbativer Prozess, der sehr hohe Ordnungen ermöglicht.
+
+\subsection{Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
+SFG: Zwei Photonen unterschiedlicher Frequenz ($\omega_1$, $\omega_2$) erzeugen ein Photon mit $\omega_3 = \omega_1 + \omega_2$. Beide Prozesse benötigen starke Felder und Phasenanpassung.
+
+\subsection{SHG vs. Zweiphotonenabsorption (TPA)}
+SHG ist ein kohärenter Prozess, bei dem zwei Photonen zu einem neuen Photon verschmelzen. TPA ist ein inkohärenter Prozess, bei dem zwei Photonen gleichzeitig absorbiert werden, um ein Elektron anzuregen.
+
+%----------------------------------------------------------
+
+\section{Beispiele und Anwendungen}
+\begin{itemize}
+    \item \textbf{Grüne Laserpointer:} SHG aus IR-Laser (1064 nm) erzeugt sichtbares Licht (532 nm)
+    \item \textbf{Materialcharakterisierung:} Bestimmung von $\chi^{(2)}$ und $\chi^{(3)}$
+    \item \textbf{Oberflächenanalytik:} SHG ist sensitiv für nicht-zentrosymmetrische Bereiche (z.B. Grenzflächen, Adsorbate)
+    \item \textbf{Biologische Bildgebung:} SHG- und THG-Mikroskopie für label-freie, kontrastreiche Aufnahmen (z.B. Kollagen, Zellmembranen)
+\end{itemize}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.6\columnwidth]{../praes/Images/THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png}
+\caption{SHG/THG-Mikroskopie am Zebrafisch-Embryo.\figciteweb{ResearchGateZebrafish2009}}
+\end{figure}
 
 %----------------------------------------------------------
 
