@@ -18,45 +18,46 @@
 %% Draft watermark
 % \usepackage{draftwatermark}
 
-% custom Citation commands
-\DeclareCiteCommand{\citeauthortitle}
-  {\usebibmacro{prenote}}
-  {\usebibmacro{citeindex}%
-   \printnames{labelname}%
-   \setunit{\space\textendash\space}
-   \printfield{title}}
-  {\multicitedelim}
-  {\usebibmacro{postnote}}
+% % custom Citation commands
+% \DeclareCiteCommand{\citeauthortitle}
+%   {\usebibmacro{prenote}}
+%   {\usebibmacro{citeindex}%
+%    \printnames{labelname}%
+%    \setunit{\space\textendash\space}
+%    \printfield{title}}
+%   {\multicitedelim}
+%   {\usebibmacro{postnote}}
 
-  \DeclareCiteCommand{\citeauthortitleurl}
-  {\usebibmacro{prenote}}
-  {\usebibmacro{citeindex}%
-   \printnames{labelname}%
-   \setunit{\space\textendash\space}
-   \printfield{title}%
-   \setunit{\addsemicolon\space}
-   \printfield{url}}
-  {\multicitedelim}
-  {\usebibmacro{postnote}}
+%   \DeclareCiteCommand{\citeauthortitleurl}
+%   {\usebibmacro{prenote}}
+%   {\usebibmacro{citeindex}%
+%    \printnames{labelname}%
+%    \setunit{\space\textendash\space}
+%    \printfield{title}%
+%    \setunit{\addsemicolon\space}
+%    \printfield{url}}
+%   {\multicitedelim}
+%   {\usebibmacro{postnote}}
 
-\DeclareCiteCommand{\parenciteauthortitle}
-  {\usebibmacro{prenote}}
-  {\bibopenparen\usebibmacro{citeindex}%
-   \printnames{labelname}%
-   \setunit{\space\textendash\space}% <- Hier wird das Trennzeichen ":" hinzugefügt
-   \printfield{title}\bibcloseparen}
-  {\multicitedelim}
-  {\usebibmacro{postnote}}
+% \DeclareCiteCommand{\parenciteauthortitle}
+%   {\usebibmacro{prenote}}
+%   {\bibopenparen\usebibmacro{citeindex}%
+%    \printnames{labelname}%
+%    \setunit{\space\textendash\space}% <- Hier wird das Trennzeichen ":" hinzugefügt
+%    \printfield{title}\bibcloseparen}
+%   {\multicitedelim}
+%   {\usebibmacro{postnote}}
 
-\makeatletter
-\renewcommand\footnotesize{\tiny}
-\makeatother
+% \makeatletter
+% \renewcommand\footnotesize{\tiny}
+% \makeatother
 
-\newcommand{\figcite}[1]{\\[0mm]{\tiny Quelle: \cite{#1}}}
-\newcommand{\figciteweb}[1]{\\[0mm]{\tiny aus: \citeauthortitle{#1}}}
-\newcommand{\figciteweburl}[1]{\\[0mm]{\tiny aus: \citeauthortitleurl{#1}}}
+% \newcommand{\figcite}[1]{\\[0mm]{\tiny Quelle: \cite{#1}}}
+% \newcommand{\figciteweb}[1]{\\[0mm]{\tiny aus: \citeauthortitle{#1}}}
+% \newcommand{\figciteweburl}[1]{\\[0mm]{\tiny aus: \citeauthortitleurl{#1}}}
 
 \usepackage{pdfpages}
+\usepackage{animate}
 
 %----------------------------------------------------------
 % TITEL
@@ -114,11 +115,11 @@ In diesem Bericht werden die Grundlagen der Second- und Third-Harmonic Generatio
 \section{Einleitung und Motivation}
 Nichtlineare optische Prozesse ermöglichen es, neue Frequenzen aus intensiven Laserfeldern zu erzeugen. Besonders die Second-Harmonic Generation (SHG) und Third-Harmonic Generation (THG) sind zentrale Effekte, die in der modernen Lasertechnologie, Mikroskopie und Materialanalyse Anwendung finden.
 
-\begin{figure}[!ht]
-\centering
-\includegraphics[width=0.6\columnwidth]{figures/experimental.png}
-\caption{Schematischer Aufbau für SHG/THG-Experimente.\figcite{JkwchuiImage}}
-\end{figure}
+% \begin{figure}[!ht]
+% \centering
+% \includegraphics[width=0.6\columnwidth]{figures/experimental.png}
+% \caption{Schematischer Aufbau für SHG/THG-Experimente.\figcite{JkwchuiImage}}
+% \end{figure}
 
 %----------------------------------------------------------
 
@@ -132,7 +133,7 @@ Die Terme $\chi^{(2)}$ und $\chi^{(3)}$ beschreiben die nichtlinearen Effekte. $
 \begin{figure}[!ht]
 \centering
 \includegraphics[width=0.6\columnwidth]{../praes/Images/Fig.1 optics.jpeg}
-\caption{Links: Lineare, rechts: nichtlineare Antwort eines Mediums auf Licht.\figcite{Science20NonlinearOptics2014}}
+\caption{Links: Lineare, rechts: nichtlineare Antwort eines Mediums auf Licht.\cite{Science20NonlinearOptics2014}}
 \end{figure}
 
 %----------------------------------------------------------
@@ -148,7 +149,7 @@ Typische Kristalle: BBO, KTP, KDP, LBO. Effiziente SHG erfordert starke, gepulst
 \begin{figure}[!ht]
 \centering
 \includegraphics[width=0.6\columnwidth]{../praes/Images/Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png}
-\caption{Schematische Darstellung: Einfallende Welle erzeugt zweite Harmonische im nichtlinearen Medium.\figciteweburl{BPAegirsson2017}}
+\caption{Schematische Darstellung: Einfallende Welle erzeugt zweite Harmonische im nichtlinearen Medium.\cite{BPAegirsson2017}}
 \end{figure}
 
 Historisch wurde SHG erstmals 1961 mit einem Rubinlaser beobachtet (Franken et al.).
@@ -164,7 +165,7 @@ P^{(3)}(3\omega) = \varepsilon_0 \chi^{(3)} E(\omega)^3
 \begin{figure}[!ht]
 \centering
 \includegraphics[width=0.95\columnwidth]{../praes/Images/thg.png}
-\caption{Drei Photonen $\omega$ erzeugen ein Photon $3\omega$.\figciteweb{Boyd2020}}
+\caption{Drei Photonen $\omega$ erzeugen ein Photon $3\omega$.\cite{Boyd2020}}
 \end{figure}
 
 THG ist meist schwächer als SHG, aber besonders effektiv an Grenzflächen oder bei Brechungsindexgradienten (z.B. THG-Mikroskopie).
@@ -178,7 +179,7 @@ Ob ein Material SHG zeigt, hängt von der Symmetrie ab. In zentrosymmetrischen M
 \centering
 \includegraphics[width=0.45\columnwidth]{../praes/Images/pot_noncentrosym.png}
 \includegraphics[width=0.45\columnwidth]{../praes/Images/pot_centrosym.png}
-\caption{Links: Potential ohne Inversionssymmetrie ($\chi^{(2)} \neq 0$), rechts: mit Inversionssymmetrie ($\chi^{(2)} = 0$).\figcite{Boyd2020}}
+\caption{Links: Potential ohne Inversionssymmetrie ($\chi^{(2)} \neq 0$), rechts: mit Inversionssymmetrie ($\chi^{(2)} = 0$).\cite{Boyd2020}}
 \end{figure}
 
 %----------------------------------------------------------
@@ -188,8 +189,8 @@ Für effiziente Frequenzkonversion müssen Grund- und Harmonische phasenkohären
 
 \begin{figure}[!ht]
 \centering
-\includegraphics[width=0.98\columnwidth]{../praes/Images/shg.png}
-\caption{SHG: $\omega \rightarrow 2\omega$. Die Grafik illustriert die Energieumwandlung.\figcite{Boyd2020}}
+      \animategraphics[autoplay,loop,width=0.6\columnwidth]{10}{../praes/Images/Phase Matching/imperfect}{001}{021}\\[-1mm]{Animation: Imperfektes Phasenmatching – die erzeugte Welle läuft außer Phase.}
+    \cite{Bertolotti2019b}
 \end{figure}
 
 
@@ -201,8 +202,8 @@ Ein typischer Aufbau besteht aus Laser, nichtlinearem Kristall, Strahlführung, 
 
 \begin{figure}[!ht]
 \centering
-\includegraphics[width=0.95\columnwidth]{../praes/Images/Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png}
-\caption{Experimenteller Aufbau zur Messung der SHG- und THG-Intensität in Abhängigkeit von der Laserenergie.\figciteweburl{ResearchGate2025}}
+\includegraphics[width=0.7\columnwidth]{../praes/Images/Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png}
+\caption{Experimenteller Aufbau zur Messung der SHG- und THG-Intensität in Abhängigkeit von der Laserenergie.\cite{ResearchGate2025}}
 \end{figure}
 
 \subsection{SHG-Mikroskopie}
@@ -240,11 +241,16 @@ Die Intensität der erzeugten Harmonischen wird typischerweise gegen die Eingang
 \subsection{Sequential THG und HHG}
 Bei Sequential THG erfolgt die Frequenzverdreifachung in mehreren Stufen ($\omega \rightarrow 2\omega \rightarrow 3\omega$). High Harmonic Generation (HHG) ist ein nichtlinearer, nichtperturbativer Prozess, der sehr hohe Ordnungen ermöglicht.
 
-\subsection{Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
+\subsection{Summenfrequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
 SFG: Zwei Photonen unterschiedlicher Frequenz ($\omega_1$, $\omega_2$) erzeugen ein Photon mit $\omega_3 = \omega_1 + \omega_2$. Beide Prozesse benötigen starke Felder und Phasenanpassung.
 
 \subsection{SHG vs. Zweiphotonenabsorption (TPA)}
 SHG ist ein kohärenter Prozess, bei dem zwei Photonen zu einem neuen Photon verschmelzen. TPA ist ein inkohärenter Prozess, bei dem zwei Photonen gleichzeitig absorbiert werden, um ein Elektron anzuregen.
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.6\columnwidth]{../praes/Images/shg vs tpa.png}\\[-1mm]
+\caption{{SHG vs. TPA: Prinzipdarstellung, \cite{Zhang2020}}}
+\end{figure}
 
 %----------------------------------------------------------
 
@@ -259,7 +265,7 @@ SHG ist ein kohärenter Prozess, bei dem zwei Photonen zu einem neuen Photon ver
 \begin{figure}[!ht]
 \centering
 \includegraphics[width=0.6\columnwidth]{../praes/Images/THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png}
-\caption{SHG/THG-Mikroskopie am Zebrafisch-Embryo.\figciteweb{ResearchGateZebrafish2009}}
+\caption{SHG/THG-Mikroskopie am Zebrafisch-Embryo.\cite{ResearchGateZebrafish2009}}
 \end{figure}
 
 %----------------------------------------------------------

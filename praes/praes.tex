@@ -94,11 +94,10 @@
           \fill[black] (current page.south west) rectangle (current page.north east);
         \end{tikzpicture}
         \pause
-        
         \centering
         \only<2>{\includegraphics[width=0.9\textwidth]{Images/Copilot_20250706_224005.png}}
         \only<3>{\includegraphics[width=0.9\textwidth]{Images/Copilot_20250706_215901.png}}
-        \\ \tiny \textcolor{gray}{von: \citetitle{Copilot.2025} -- \citefield{Copilot.2025}{note}}
+        \tiny \textcolor{gray}{von: \citetitle{Copilot.2025} -- \citefield{Copilot.2025}{note}}
         \note{1961 beobachteten der Physiker Peter Franken und seine Mitarbeiter an der University of Michigan einen merkwürdigen Effekt: Bei der Bestrahlung eines Quarzkristalls mit einem der ersten Rubinlaser bestand das transmittierte Licht nicht nur aus Strahlung der Laserwellenlänge 694 nm, sondern es trat auch UV-Licht der halben Wellenlänge 347 nm aus. Das war die erste Beobachtung eines nichtlinearen Effektes, der Frequenzverdopplung,[2] und gilt als die Geburtsstunde der nichtlinearen Optik.}
     \end{frame}
    
@@ -174,6 +173,7 @@
 
 % --- Folie 5: Zweitharmonische Generation (SHG) – Prinzip ---
 
+\subsection{Second Harmonic Generation}
 \begin{frame}{Zweitharmonische Generation (SHG): Prinzip}
   \begin{columns}[T,onlytextwidth]
     \column{0.55\textwidth}
@@ -213,7 +213,7 @@
     \column{0.6\textwidth}
       \begin{itemize}
         \item Antwort eines Mediums auf sinusförmiges Feld
-        \pause
+        % \pause
         \item Bei nichtlinearen Bedingungen: Verzerrte Schwingung $\rightarrow$ neue Frequenzen
         \item \textbf{Symmetrie entscheidend:}
           \begin{itemize}
@@ -301,6 +301,7 @@
   }
 \end{frame}
 
+\subsection{Third Harmonic Generation}
 \begin{frame}{Drittharmonische Generation (THG)}
   \begin{columns}[T,onlytextwidth]
     \column{0.52\textwidth}
@@ -371,6 +372,7 @@
 
 % --- Folie 8: Phasenanpassung (Phase Matching) ---
 
+\subsection{Phasenanpassung}
 \begin{frame}{Phasenanpassung (Phase Matching)}
   \begin{columns}[T,onlytextwidth]
     \column{0.52\textwidth}
@@ -385,7 +387,8 @@
     \column{0.46\textwidth}
       \begin{center}
       \animategraphics[autoplay,loop,width=0.95\columnwidth]{10}{Images/Phase Matching/imperfect}{001}{021}\\[-1mm]{\tiny Animation: Imperfektes Phasenmatching – die erzeugte Welle läuft außer Phase.}
-      \end{center}
+    \figciteweb{Bertolotti2019b}  
+    \end{center}
   \end{columns}
   \note{
     Für effiziente Frequenzkonversion müssen die erzeugte Welle und das Grundsignal phasenkohärent bleiben.\newline
@@ -413,6 +416,7 @@
     \column{0.46\textwidth}
       \begin{center}
       \animategraphics[autoplay,loop,width=0.95\columnwidth]{10}{Images/Phase Matching/perfect}{001}{021}\\[-1mm]{\tiny Animation: Perfektes Phasenmatching}
+      \figciteweb{Bertolotti2019}
       \end{center}
   \end{columns}
   \note{
@@ -590,7 +594,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
 
 % --- Anhang: SHG vs. Zweiphotonenabsorption (TPA) ---
 
-\begin{frame}[noframenumbering]{SHG ist nicht gleich Zweiphotonenabsorption (TPA)}
+\begin{frame}[noframenumbering]{Anhang: SHG ist nicht gleich Zweiphotonenabsorption (TPA)}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \begin{itemize}
@@ -639,7 +643,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
 
 % --- Anhang: Sequential THG und High Harmonic Generation (HHG) ---
 
-\begin{frame}[noframenumbering]{Sequential THG und High Harmonic Generation (HHG)}
+\begin{frame}[noframenumbering]{Anhang: Sequential THG und High Harmonic Generation (HHG)}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \includegraphics[width=0.98\textwidth]{Images/seq_thg.png}\\[-1mm]{\tiny Sequential THG \figcite{Boyd2020}}
@@ -672,7 +676,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
 
 % --- Anhang: Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG) ---
 
-\begin{frame}[noframenumbering]{Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
+\begin{frame}[noframenumbering]{Anhang: Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \includegraphics[width=0.98\textwidth]{Images/sum-freq.png}\\[-1mm]{\tiny Sum-Frequenz-Generation (SFG) \figcite{Boyd2020}}
@@ -707,7 +711,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
   }
 \end{frame}
 
-\begin{frame}[noframenumbering]{SHG: Propagation und Oberflächen-SHG}
+\begin{frame}[noframenumbering]{Anhang: SHG: Propagation und Oberflächen-SHG}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \centering
