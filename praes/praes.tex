@@ -170,27 +170,6 @@
   }
 \end{frame}
 
-\begin{frame}{Materialantwort: Wann tritt Nichtlinearität auf?}
-  \begin{columns}[T,onlytextwidth]
-    \column{0.38\textwidth}
-      \includegraphics[height=0.8\textheight]{Images/Nonlinear response.png}
-      {\tiny \figcite{Boyd2020}: \citetitle{Boyd2020}}
-    \column{0.6\textwidth}
-      \begin{itemize}
-        \item Antwort eines Mediums auf sinusförmiges Feld
-        % \pause
-        \item Bei nichtlinearen Bedingungen: Verzerrte Schwingung $\rightarrow$ neue Frequenzen
-        \item Zentrosymmetrie: gleich mehr
-      \end{itemize}
-  \end{columns}
-  \note{
-    Die Grafik zeigt, wie verschiedene Materialien auf ein sinusförmiges elektrisches Feld reagieren.\newline
-    Nur Materialien ohne Inversionssymmetrie (z.B. viele Kristalle) zeigen eine starke nichtlineare Antwort ($\chi^{(2)} \neq 0$).\newline
-    In zentrosymmetrischen Medien verschwindet $\chi^{(2)}$, sodass nur Effekte dritter Ordnung ($\chi^{(3)}$) wie THG möglich sind.\newline
-    Die verzerrte Schwingung im rechten Teil der Grafik steht für die Entstehung neuer Frequenzen durch Nichtlinearität.
-  }
-\end{frame}
-    
 \section{Harmonische Generation}
 
 % --- Folie 5: Zweitharmonische Generation (SHG) – Prinzip ---
@@ -202,12 +181,12 @@
         \item Einfallende elektromagnetische Welle übt Kraft auf Elektronen (Dipolschwingung)
         % \pause
         \item Elektrisches Feld $E(t)$ versetzt Elektronen in periodische Bewegung
-        \item Bewegung erzeugt zeitabhängige Polarisation $P(t)$ \parencite{WikipediaNonlinearOpticalProcess2006}
+        \item Bewegung erzeugt zeitabhängige Polarisation $P(t)$ {\tiny (\citetitle{WikipediaNonlinearOpticalProcess2006})}
         % \pause
         \item Voraussetzung für SHG: Material nicht-zentrosymmetrisch ($\chi^{(2)} \neq 0$)
         \item $P^{(2)}(2\omega) = \varepsilon_0 \chi^{(2)} E(\omega)^2$
         \item $E(2\omega) \propto \chi^{(2)} [E(\omega)]^2$
-        \item Energieerhaltung: $2\hbar\omega = \hbar(2\omega)$
+        % \item Energieerhaltung: $2\hbar\omega = \hbar(2\omega)$
       \end{itemize}
     \column{0.43\textwidth}
       %hier gif
@@ -226,23 +205,55 @@
   }
 \end{frame}
 
+\begin{frame}{Materialantwort: Wann tritt Nichtlinearität auf?}
+  \begin{columns}[T,onlytextwidth]
+    \column{0.38\textwidth}
+      \includegraphics[height=0.8\textheight]{Images/Nonlinear response.png}
+      {\tiny \figcite{Boyd2020}: \citetitle{Boyd2020}}
+    \column{0.6\textwidth}
+      \begin{itemize}
+        \item Antwort eines Mediums auf sinusförmiges Feld
+        \pause
+        \item Bei nichtlinearen Bedingungen: Verzerrte Schwingung $\rightarrow$ neue Frequenzen
+        \item \textbf{Symmetrie entscheidend:}
+          \begin{itemize}
+            \item Zentrosymmetrisch: $\chi^{(2)} = 0$ (z.B. Glas, Wasser)
+            \item Nicht-zentrosymmetrisch: $\chi^{(2)} \neq 0$ (z.B. viele Kristalle)
+          \end{itemize}
+      \end{itemize}
+  \end{columns}
+  \note{
+    Die Grafik zeigt, wie verschiedene Materialien auf ein sinusförmiges elektrisches Feld reagieren.\newline
+    Nur Materialien ohne Inversionssymmetrie (z.B. viele Kristalle) zeigen eine starke nichtlineare Antwort ($\chi^{(2)} \neq 0$).\newline
+    In zentrosymmetrischen Medien verschwindet $\chi^{(2)}$, sodass nur Effekte dritter Ordnung ($\chi^{(3)}$) wie THG möglich sind.\newline
+    Die verzerrte Schwingung im rechten Teil der Grafik steht für die Entstehung neuer Frequenzen durch Nichtlinearität.
+  }
+\end{frame}
+
 % --- Folie 6: Zweitharmonische Generation (SHG) – Beispiele & Bedingungen ---
 
 \begin{frame}{Zweitharmonische Generation (SHG): Beispiele \& Bedingungen}
   \begin{columns}[T,onlytextwidth]
     \column{0.55\textwidth}
       \begin{itemize}
-        \item Typische Kristalle: BBO, KTP, KDP, LBO
-        % \pause
         \item Benötigt starke, gepulste Laser (z.B. Nd:YAG 1064 nm $\rightarrow$ 532 nm grün)
         \item Effizienz oft gering, exakte Ausrichtung nötig
-        % \pause
         \item SHG historisch erstmals 1961 mit Rubinlaser beobachtet (Franken)
         \item \textbf{Praxis:} Quadratische Abhängigkeit der SHG-Intensität von der Eingangsleistung
       \end{itemize}
     \column{0.43\textwidth}
       \includegraphics[width=0.95\textwidth]{Images/Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png}\\
-      {\tiny Schematische Darstellung: Einfallende Welle erzeugt zweite Harmonische im nichtlinearen Medium. \figciteweburl{BPAegirsson2017}}
+      {\tiny Schematische Darstellung: Einfallende Welle erzeugt zweite Harmonische im nichtlinearen Medium. \figcite{BPAegirsson2017}}
+      % \pause
+      \begin{itemize}
+        \item Typische Kristalle: 
+          \begin{itemize}
+            \item BBO (Beta-Bariumborat)
+            \item KTP (Kaliumtitanylphosphat)
+            \item KDP (Kaliumdihydrogenphosphat)
+            \item LBO (Lithiumtriborat)
+          \end{itemize}
+      \end{itemize}
   \end{columns}
   \note{
     Für effiziente SHG braucht man starke, meist gepulste Laser und spezielle Kristalle ohne Inversionssymmetrie.\newline
@@ -370,8 +381,6 @@
         \item Ohne Phasenanpassung: geringe Effizienz
         % \pause
         \item Kohärenzlänge: Phasenverlust-Abstand
-        \item Phasenanpassung: Birefringenz oder QPM
-        \item Typen: Kritisch (I/II), QPM
       \end{itemize}
     \column{0.46\textwidth}
       \begin{center}
@@ -439,17 +448,14 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
     \column{0.55\textwidth}
       \begin{itemize}
         \item Starke Laserquelle (z.B. Nd:YAG, Ti:Sa, gepulst)
-        % \pause
         \item Strahlführung: Polarisation, Fokussierung auf Kristall
         \item Nichtlinearer Kristall (z.B. BBO, KTP, LBO), drehbar für Phasenanpassung
-        % \pause
         \item Filter blockiert Grundwelle, lässt SHG/THG durch
         \item Detektion: Photodiode oder Spektrometer
       \end{itemize}
-    \column{0.43\textwidth}
+    \column<0->{0.43\textwidth}
       \centering
-        % Hier ggf. Schemazeichnung einfügen
-        \includegraphics[width=0.95\textwidth]{Images/Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png}\\
+        \includegraphics<0->[width=0.95\textwidth]{Images/Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png}\\
         {\tiny Experimenteller Aufbau zur Messung der SHG- und THG-Intensität in Abhängigkeit von der Laserenergie, \figcite{ResearchGate2025}}
   \end{columns}
   \note{
@@ -468,10 +474,8 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
     \column{0.55\textwidth}
       \begin{itemize}
         \item \textbf{Laser:} Pulsdauer, Wellenlänge, Leistung
-        % \pause
         \item \textbf{Kristall:} Material, Dicke, Temperatur, Ausrichtung!
         \item \textbf{Messung:} Intensität der Harmonischen in Abhängigkeit von Polarisation, Winkel, Leistung
-        % \pause
         \item Typisch: Quadratische Abhängigkeit für SHG ($I_{SHG} \propto P^2$)
       \end{itemize}
     \column{0.43\textwidth}
@@ -586,7 +590,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
 
 % --- Anhang: SHG vs. Zweiphotonenabsorption (TPA) ---
 
-\begin{frame}{SHG ist nicht gleich Zweiphotonenabsorption (TPA)}
+\begin{frame}[noframenumbering]{SHG ist nicht gleich Zweiphotonenabsorption (TPA)}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \begin{itemize}
@@ -635,7 +639,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
 
 % --- Anhang: Sequential THG und High Harmonic Generation (HHG) ---
 
-\begin{frame}{Sequential THG und High Harmonic Generation (HHG)}
+\begin{frame}[noframenumbering]{Sequential THG und High Harmonic Generation (HHG)}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \includegraphics[width=0.98\textwidth]{Images/seq_thg.png}\\[-1mm]{\tiny Sequential THG \figcite{Boyd2020}}
@@ -668,7 +672,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
 
 % --- Anhang: Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG) ---
 
-\begin{frame}{Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
+\begin{frame}[noframenumbering]{Sum-Frequenz- und Differenz-Frequenz-Generation (SFG/DFG)}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \includegraphics[width=0.98\textwidth]{Images/sum-freq.png}\\[-1mm]{\tiny Sum-Frequenz-Generation (SFG) \figcite{Boyd2020}}
@@ -703,7 +707,7 @@ Typ I/II (Birefringenz) beschreibt die Art der Polarisation und die Rolle der Do
   }
 \end{frame}
 
-\begin{frame}{SHG: Propagation und Oberflächen-SHG}
+\begin{frame}[noframenumbering]{SHG: Propagation und Oberflächen-SHG}
   \begin{columns}[T,onlytextwidth]
     \column{0.48\textwidth}
       \centering
