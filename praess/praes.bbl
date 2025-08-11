@@ -1,0 +1,487 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Adamczyk2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c16d25e0cbda29d2948bd69962080c31}{%
+           family={Adamczyk},
+           familyi={A\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c16d25e0cbda29d2948bd69962080c31}
+      \strng{fullhash}{c16d25e0cbda29d2948bd69962080c31}
+      \strng{fullhashraw}{c16d25e0cbda29d2948bd69962080c31}
+      \strng{bibnamehash}{c16d25e0cbda29d2948bd69962080c31}
+      \strng{authorbibnamehash}{c16d25e0cbda29d2948bd69962080c31}
+      \strng{authornamehash}{c16d25e0cbda29d2948bd69962080c31}
+      \strng{authorfullhash}{c16d25e0cbda29d2948bd69962080c31}
+      \strng{authorfullhashraw}{c16d25e0cbda29d2948bd69962080c31}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{month}{3}
+      \field{note}{Foto aufgenommen mit OnePlus 7T im Laserlabor 9 des 1. Physikalischen Instituts der Justus-Liebig-Universität Gießen}
+      \field{title}{Laserlabor 9, 1. Physikalisches Institut, JLU Gießen}
+      \field{year}{2025}
+      \field{dateera}{ce}
+    \endentry
+    \entry{BPAegirsson2017}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=acc14a26a35d1f380cbbd58b48b90437}{%
+           family={BP-Aegirsson},
+           familyi={B\bibinithyphendelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{acc14a26a35d1f380cbbd58b48b90437}
+      \strng{fullhash}{acc14a26a35d1f380cbbd58b48b90437}
+      \strng{fullhashraw}{acc14a26a35d1f380cbbd58b48b90437}
+      \strng{bibnamehash}{acc14a26a35d1f380cbbd58b48b90437}
+      \strng{authorbibnamehash}{acc14a26a35d1f380cbbd58b48b90437}
+      \strng{authornamehash}{acc14a26a35d1f380cbbd58b48b90437}
+      \strng{authorfullhash}{acc14a26a35d1f380cbbd58b48b90437}
+      \strng{authorfullhashraw}{acc14a26a35d1f380cbbd58b48b90437}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Schematic made with PowerPoint shapes, CC BY-SA 4.0}
+      \field{title}{Third Harmonic Generation Schematic}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?curid=64560027
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?curid=64560027
+      \endverb
+    \endentry
+    \entry{Bertolotti2019}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1aba9285fab07732daafc3bc5d46fd39}{%
+           family={Bertolotti},
+           familyi={B\bibinitperiod},
+           given={Jacopo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{fullhash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{fullhashraw}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{bibnamehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authorbibnamehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authornamehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authorfullhash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authorfullhashraw}{1aba9285fab07732daafc3bc5d46fd39}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{By Jacopo Bertolotti - \url{https://twitter.com/j_bertolotti/status/1196848654675533824}, CC0}
+      \field{title}{Second Harmonic Generation Diagram}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?curid=84168587
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?curid=84168587
+      \endverb
+    \endentry
+    \entry{Bertolotti2019b}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1aba9285fab07732daafc3bc5d46fd39}{%
+           family={Bertolotti},
+           familyi={B\bibinitperiod},
+           given={Jacopo},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{fullhash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{fullhashraw}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{bibnamehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authorbibnamehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authornamehash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authorfullhash}{1aba9285fab07732daafc3bc5d46fd39}
+      \strng{authorfullhashraw}{1aba9285fab07732daafc3bc5d46fd39}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{By Jacopo Bertolotti - \url{https://twitter.com/j_bertolotti/status/1196849637904322561}, CC BY-SA 4.0}
+      \field{title}{Second Harmonic Generation Diagram (Imperfect Phase Matching)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?curid=84168799
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?curid=84168799
+      \endverb
+    \endentry
+    \entry{Bhattacharya2012}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8b8011cd45edacc0544f2a53f29e22a2}{%
+           family={Bhattacharya},
+           familyi={B\bibinitperiod},
+           given={Nirupama},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e42d744e61977e0833217eb3bfd77f60}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3574810719d5ba2bff2213425250039c}
+      \strng{fullhash}{3574810719d5ba2bff2213425250039c}
+      \strng{fullhashraw}{3574810719d5ba2bff2213425250039c}
+      \strng{bibnamehash}{3574810719d5ba2bff2213425250039c}
+      \strng{authorbibnamehash}{3574810719d5ba2bff2213425250039c}
+      \strng{authornamehash}{3574810719d5ba2bff2213425250039c}
+      \strng{authorfullhash}{3574810719d5ba2bff2213425250039c}
+      \strng{authorfullhashraw}{3574810719d5ba2bff2213425250039c}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Physics 173 / BGGN 266, Spring 2012}
+      \field{title}{Second Harmonic Generation Imaging}
+      \field{year}{2012}
+    \endentry
+    \entry{Boyd2020}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5deda664a6cf03ea0cb9cb40c827addd}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science \& Technology}%
+      }
+      \strng{namehash}{5deda664a6cf03ea0cb9cb40c827addd}
+      \strng{fullhash}{5deda664a6cf03ea0cb9cb40c827addd}
+      \strng{fullhashraw}{5deda664a6cf03ea0cb9cb40c827addd}
+      \strng{bibnamehash}{5deda664a6cf03ea0cb9cb40c827addd}
+      \strng{authorbibnamehash}{5deda664a6cf03ea0cb9cb40c827addd}
+      \strng{authornamehash}{5deda664a6cf03ea0cb9cb40c827addd}
+      \strng{authorfullhash}{5deda664a6cf03ea0cb9cb40c827addd}
+      \strng{authorfullhashraw}{5deda664a6cf03ea0cb9cb40c827addd}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ProQuest Ebook Central}
+      \field{title}{Nonlinear Optics}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://ebookcentral.proquest.com/lib/unigiessen/detail.action?docID=5795659
+      \endverb
+      \verb{url}
+      \verb https://ebookcentral.proquest.com/lib/unigiessen/detail.action?docID=5795659
+      \endverb
+    \endentry
+    \entry{Sbyrnes3212014}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=95065b5b4a4db97ac2cb79b1bc4206f1}{%
+           family={Byrnes},
+           familyi={B\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \strng{fullhash}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \strng{fullhashraw}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \strng{bibnamehash}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \strng{authorbibnamehash}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \strng{authornamehash}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \strng{authorfullhash}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \strng{authorfullhashraw}{95065b5b4a4db97ac2cb79b1bc4206f1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{By Sbyrnes321 - Own work, CC0}
+      \field{title}{Energy Level Diagram for Second Harmonic Generation}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://commons.wikimedia.org/w/index.php?curid=31453795
+      \endverb
+      \verb{url}
+      \verb https://commons.wikimedia.org/w/index.php?curid=31453795
+      \endverb
+    \endentry
+    \entry{Copilot.2025}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c8c51a378b15c30300b3eb1a50934d6}{%
+           family={Copilot},
+           familyi={C\bibinitperiod},
+           given={Microsoft},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c8c51a378b15c30300b3eb1a50934d6}
+      \strng{fullhash}{9c8c51a378b15c30300b3eb1a50934d6}
+      \strng{fullhashraw}{9c8c51a378b15c30300b3eb1a50934d6}
+      \strng{bibnamehash}{9c8c51a378b15c30300b3eb1a50934d6}
+      \strng{authorbibnamehash}{9c8c51a378b15c30300b3eb1a50934d6}
+      \strng{authornamehash}{9c8c51a378b15c30300b3eb1a50934d6}
+      \strng{authorfullhash}{9c8c51a378b15c30300b3eb1a50934d6}
+      \strng{authorfullhashraw}{9c8c51a378b15c30300b3eb1a50934d6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{6}
+      \field{howpublished}{\url{https://copilot.microsoft.com/}}
+      \field{month}{7}
+      \field{note}{Prompt: "1961: Peter Franken hits quartz /w Ruby laser, UV-light emerges—birth of nonlinear optics."}
+      \field{title}{Copilot Image Creation Engine}
+      \field{year}{2025}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Science20NonlinearOptics2014}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2fa6af586895a4535f1c514c2aac01b}{%
+           family={Mei},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Science 2.0}%
+      }
+      \strng{namehash}{f2fa6af586895a4535f1c514c2aac01b}
+      \strng{fullhash}{f2fa6af586895a4535f1c514c2aac01b}
+      \strng{fullhashraw}{f2fa6af586895a4535f1c514c2aac01b}
+      \strng{bibnamehash}{f2fa6af586895a4535f1c514c2aac01b}
+      \strng{authorbibnamehash}{f2fa6af586895a4535f1c514c2aac01b}
+      \strng{authornamehash}{f2fa6af586895a4535f1c514c2aac01b}
+      \strng{authorfullhash}{f2fa6af586895a4535f1c514c2aac01b}
+      \strng{authorfullhashraw}{f2fa6af586895a4535f1c514c2aac01b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{8}
+      \field{note}{Accessed 7 July 2025}
+      \field{title}{Nonlinear Optics}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.science20.com/mei/nonlinear_optics?utm_source=chatgpt.com
+      \endverb
+      \verb{url}
+      \verb https://www.science20.com/mei/nonlinear_optics?utm_source=chatgpt.com
+      \endverb
+    \endentry
+    \entry{ResearchGateZebrafish2009}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5f2e4feefdcbad236ecbd63aadf6704b}{%
+           family={{ResearchGate Contributors}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{fullhash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{fullhashraw}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{bibnamehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authorbibnamehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authornamehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authorfullhash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authorfullhashraw}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed 7 July 2025}
+      \field{title}{Cell Lineage Reconstruction of Early Zebrafish Embryos Using Label-Free Nonlinear Microscopy - Scientific Figure}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/figure/THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG_fig2_45720994
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/figure/THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG_fig2_45720994
+      \endverb
+    \endentry
+    \entry{ResearchGate2025}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5f2e4feefdcbad236ecbd63aadf6704b}{%
+           family={{ResearchGate Contributors}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{fullhash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{fullhashraw}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{bibnamehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authorbibnamehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authornamehash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authorfullhash}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \strng{authorfullhashraw}{5f2e4feefdcbad236ecbd63aadf6704b}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed 7 July 2025}
+      \field{title}{Study and diagnostic of the physicochemical properties of new $\pi$-conjugated (metallo)supramolecular architectures for nonlinear optics - Scientific Figure}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/figure/Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy_fig29_365977211
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/figure/Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy_fig29_365977211
+      \endverb
+    \endentry
+    \entry{WikipediaNonlinearOpticalProcess2006}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=535bebf06af273c7e2d9ff9d7fc43470}{%
+           family={{Wikipedia Contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wikipedia.org, Wikimedia Foundation, Inc.}%
+      }
+      \strng{namehash}{535bebf06af273c7e2d9ff9d7fc43470}
+      \strng{fullhash}{535bebf06af273c7e2d9ff9d7fc43470}
+      \strng{fullhashraw}{535bebf06af273c7e2d9ff9d7fc43470}
+      \strng{bibnamehash}{535bebf06af273c7e2d9ff9d7fc43470}
+      \strng{authorbibnamehash}{535bebf06af273c7e2d9ff9d7fc43470}
+      \strng{authornamehash}{535bebf06af273c7e2d9ff9d7fc43470}
+      \strng{authorfullhash}{535bebf06af273c7e2d9ff9d7fc43470}
+      \strng{authorfullhashraw}{535bebf06af273c7e2d9ff9d7fc43470}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{7}
+      \field{month}{10}
+      \field{note}{Accessed 7 July 2025}
+      \field{title}{Nonlinear Optical Process}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Second-harmonic_generation#External_links
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Second-harmonic_generation#External_links
+      \endverb
+    \endentry
+    \entry{Zhang2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=4ac1875043cd07c3aef9cf8036b1d6be}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiantian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85cfdea3344dc9b2bf44c01c11419c6b}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Weina},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c476255801262401399b7c2ef207ff07}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeced4e72a550bd94645de9d607561d1}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Guowei},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e48bdec050a7bea1bb0d4acff3023eb}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5977122277fedab17d14726d60a762b8}
+      \strng{fullhash}{b9915049d683f051c872f7375ea1e2b3}
+      \strng{fullhashraw}{b9915049d683f051c872f7375ea1e2b3}
+      \strng{bibnamehash}{5977122277fedab17d14726d60a762b8}
+      \strng{authorbibnamehash}{5977122277fedab17d14726d60a762b8}
+      \strng{authornamehash}{5977122277fedab17d14726d60a762b8}
+      \strng{authorfullhash}{b9915049d683f051c872f7375ea1e2b3}
+      \strng{authorfullhashraw}{b9915049d683f051c872f7375ea1e2b3}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2D Materials}
+      \field{note}{Focus on 2D Materials for Future Nanoelectronics: Computing and Non-Computing Devices and Components. © 2020 The Author(s). Published by IOP Publishing Ltd}
+      \field{number}{4}
+      \field{title}{Second harmonic generation in 2D layered materials}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{pages}{042002}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/2053-1583/abaf68
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/2053-1583/abaf68
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/2053-1583/abaf68
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

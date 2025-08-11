@@ -1,0 +1,1398 @@
+PWD c:\Users\flo\Documents\GitHub\SHG-THG_SpektroskopieVortrag_FlorianAdamczyk\praes
+INPUT C:\Users\flo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\flo\Documents\GitHub\SHG-THG_SpektroskopieVortrag_FlorianAdamczyk\praes\praes.tex
+OUTPUT praes.log
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamer.cls
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamer.cls
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasemodes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasedecode.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseoptions.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\xxcolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\xxcolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\atbegshi\atbegshi.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\atbegshi-ltx.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaserequires.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaserequires.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasecompatibility.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasecompatibility.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasefont.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasefont.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\sansmathaccent\sansmathaccent.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetranslator.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetranslator.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasemisc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasemisc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetwoscreens.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetwoscreens.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseoverlay.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseoverlay.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetitle.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetitle.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasesection.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasesection.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseframe.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseframe.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseverbatim.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseverbatim.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseframesize.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseframesize.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseframecomponents.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseframecomponents.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasecolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasecolor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenotes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenotes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetoc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetoc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetemplates.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetemplates.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseauxtemplates.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseauxtemplates.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseboxes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaseboxes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaselocalstructure.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbaselocalstructure.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\tools\enumerate.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenavigation.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenavigation.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasenavigationsymbols.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetheorems.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasetheorems.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerbasethemes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerfontthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerfontthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamercolorthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamercolorthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerinnerthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerinnerthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonbook.pdf
+OUTPUT praes.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonbook.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonbook.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonbook.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonarticle.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericonarticle.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericononline.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamericononline.20.pdf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerouterthemedefault.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgfopts\pgfopts.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerinnerthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerouterthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamercolorthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamertheme-metropolis\beamerfontthememetropolis.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifxetex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerfontthemeprofessionalfonts.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\beamer\beamerfontthemeprofessionalfonts.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss1095.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\babel-german\ngerman.ldf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\babel-german\ngerman.ldf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\babel-german\ngerman.ldf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\babel-german\ngermanb.ldf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\de\babel-ngerman.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\de\babel-ngerman.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\de\babel-ngerman.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\de\babel-de.ini
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\FiraSans.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\FiraSans.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\authoryear-comp.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\authoryear-comp.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\authoryear-comp.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\authoryear.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\authoryear.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\authoryear.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\authoryear-comp.cbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\textgreek\textgreek.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\textgreek\textgreek.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-inputenc\lgrenc.dfu
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-inputenc\lgrenc.dfu
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-inputenc\lgrenc.dfu
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\greek-fontenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\greek-fontenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\greek-fontenc\greek-fontenc.def
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\animate\animate.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\animate\animate.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\ifdraft.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\oberdiek\ifdraft.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\media9\pdfbase.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\media9\pdfbase.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-abspage.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\zref\zref-base.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\generic\etexcmds\etexcmds.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\auxhook\auxhook.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\ocgx2\ocgbase.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\ocgx2\ocgbase.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-beamer.sto
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-beamer.sto
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption-beamer.sto
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\t1firasans-osf.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\t1firasans-osf.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\t1firasans-osf.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT .\praes.aux
+INPUT .\praes.aux
+INPUT praes.aux
+OUTPUT praes.aux
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\cbfonts-fd\lgrcmr.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT .\praes.out
+INPUT .\praes.out
+INPUT praes.out
+INPUT praes.out
+INPUT .\praes.out
+INPUT .\praes.out
+OUTPUT praes.out
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-bibliography-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-environment-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-months-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-numbers-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\ngerman.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\ngerman.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\ngerman.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\german.lbx
+OUTPUT praes.bcf
+INPUT praes.bbl
+INPUT .\praes.bbl
+INPUT .\praes.bbl
+INPUT .\praes.bbl
+INPUT praes.bbl
+INPUT .\praes.nav
+INPUT .\praes.nav
+INPUT praes.nav
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Italic-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fira\fir_iln36p.enc
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Italic-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Italic-osf-t1--base.tfm
+INPUT .\Images\Copilot_20250706_224005.png
+INPUT .\Images\Copilot_20250706_224005.png
+INPUT .\Images\Copilot_20250706_224005.png
+INPUT .\Images\Copilot_20250706_224005.png
+INPUT .\Images\Copilot_20250706_224005.png
+INPUT .\Images\Copilot_20250706_224005.png
+INPUT .\Images\Copilot_20250706_224005.png
+INPUT .\Images\Copilot_20250706_215901.png
+INPUT .\Images\Copilot_20250706_215901.png
+INPUT .\Images\Copilot_20250706_215901.png
+INPUT .\Images\Copilot_20250706_215901.png
+INPUT .\Images\Copilot_20250706_215901.png
+INPUT .\Images\Copilot_20250706_215901.png
+INPUT .\Images\Copilot_20250706_215901.png
+INPUT .\Images\jlu_logo.jpg
+INPUT .\Images\jlu_logo.jpg
+INPUT .\Images\jlu_logo.jpg
+INPUT .\Images\jlu_logo.jpg
+INPUT .\Images\jlu_logo.jpg
+INPUT .\Images\jlu_logo.jpg
+INPUT .\Images\jlu_logo.jpg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1--base.tfm
+INPUT .\praes.toc
+INPUT .\praes.toc
+INPUT praes.toc
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT .\Images\Fig.1 optics.jpeg
+INPUT .\Images\Fig.1 optics.jpeg
+INPUT .\Images\Fig.1 optics.jpeg
+INPUT .\Images\Fig.1 optics.jpeg
+INPUT .\Images\Fig.1 optics.jpeg
+INPUT .\Images\Fig.1 optics.jpeg
+INPUT .\Images\Fig.1 optics.jpeg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\ts1firasans-osf.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\ts1firasans-osf.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\tex\latex\fira\ts1firasans-osf.fd
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-ts1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-ts1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-ts1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fira\fir_d67aat.enc
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Bold-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1--base.tfm
+INPUT .\Images\Electron_asymmetric_motion_animation\frame001.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame001.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame001.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame001.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame001.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame001.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame001.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame002.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame002.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame002.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame002.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame002.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame002.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame002.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame003.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame003.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame003.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame003.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame003.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame003.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame003.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame004.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame004.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame004.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame004.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame004.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame004.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame004.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame005.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame005.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame005.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame005.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame005.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame005.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame005.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame006.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame006.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame006.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame006.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame006.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame006.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame006.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame007.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame007.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame007.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame007.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame007.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame007.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame007.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame008.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame008.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame008.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame008.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame008.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame008.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame008.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame009.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame009.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame009.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame009.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame009.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame009.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame009.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame010.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame010.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame010.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame010.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame010.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame010.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame010.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame011.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame011.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame011.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame011.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame011.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame011.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame011.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame012.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame012.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame012.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame012.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame012.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame012.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame012.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame013.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame013.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame013.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame013.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame013.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame013.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame013.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame014.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame014.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame014.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame014.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame014.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame014.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame014.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame015.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame015.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame015.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame015.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame015.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame015.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame015.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame016.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame016.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame016.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame016.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame016.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame016.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame016.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame017.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame017.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame017.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame017.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame017.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame017.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame017.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame018.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame018.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame018.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame018.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame018.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame018.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame018.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame019.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame019.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame019.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame019.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame019.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame019.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame019.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame020.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame020.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame020.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame020.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame020.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame020.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame020.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame021.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame021.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame021.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame021.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame021.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame021.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame021.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame022.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame022.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame022.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame022.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame022.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame022.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame022.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame023.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame023.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame023.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame023.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame023.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame023.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame023.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame024.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame024.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame024.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame024.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame024.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame024.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame024.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame025.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame025.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame025.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame025.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame025.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame025.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame025.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame026.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame026.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame026.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame026.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame026.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame026.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame026.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame027.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame027.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame027.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame027.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame027.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame027.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame027.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame028.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame028.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame028.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame028.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame028.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame028.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame028.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame029.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame029.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame029.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame029.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame029.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame029.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame029.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame030.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame030.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame030.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame030.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame030.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame030.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame030.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame031.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame031.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame031.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame031.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame031.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame031.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame031.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame032.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame032.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame032.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame033.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame033.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame033.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame034.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame034.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame034.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame035.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame035.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame035.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame036.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame036.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame036.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame037.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame037.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame037.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame038.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame038.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame038.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame039.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame039.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame039.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame040.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame040.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame040.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame041.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame041.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame041.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame041.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame041.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame041.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame041.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame042.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame042.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame042.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame043.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame043.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame043.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame044.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame044.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame044.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame045.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame045.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame045.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame046.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame046.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame046.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame046.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame046.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame046.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame046.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame047.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame047.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame047.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame048.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame048.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame048.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame049.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame049.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame049.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame050.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame050.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame050.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame051.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame051.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame051.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame052.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame052.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame052.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame053.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame053.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame053.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame054.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame054.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame054.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame055.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame055.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame055.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame056.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame056.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame056.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame057.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame057.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame057.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame058.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame058.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame058.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame059.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame059.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame059.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame060.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame060.png
+INPUT .\Images\Electron_asymmetric_motion_animation\frame060.png
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt0800.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-sc-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fira\fir_2mfh3o.enc
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\cm-super\cm-super-t1.enc
+INPUT .\Images\Nonlinear response.png
+INPUT .\Images\Nonlinear response.png
+INPUT .\Images\Nonlinear response.png
+INPUT .\Images\Nonlinear response.png
+INPUT .\Images\Nonlinear response.png
+INPUT .\Images\Nonlinear response.png
+INPUT .\Images\Nonlinear response.png
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-ts1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-ts1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-ts1--base.tfm
+INPUT .\Images\Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png
+INPUT .\Images\Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png
+INPUT .\Images\Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png
+INPUT .\Images\Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png
+INPUT .\Images\Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png
+INPUT .\Images\Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png
+INPUT .\Images\Schematic_of_the_SHG_conversion_of_an_excited_wave_in_a_non-linear_medium.png
+INPUT .\Images\shg.png
+INPUT .\Images\shg.png
+INPUT .\Images\shg.png
+INPUT .\Images\shg.png
+INPUT .\Images\shg.png
+INPUT .\Images\shg.png
+INPUT .\Images\shg.png
+INPUT .\Images\thg.png
+INPUT .\Images\thg.png
+INPUT .\Images\thg.png
+INPUT .\Images\thg.png
+INPUT .\Images\thg.png
+INPUT .\Images\thg.png
+INPUT .\Images\thg.png
+INPUT .\Images\pot_noncentrosym.png
+INPUT .\Images\pot_noncentrosym.png
+INPUT .\Images\pot_noncentrosym.png
+INPUT .\Images\pot_noncentrosym.png
+INPUT .\Images\pot_noncentrosym.png
+INPUT .\Images\pot_noncentrosym.png
+INPUT .\Images\pot_noncentrosym.png
+INPUT .\Images\pot_centrosym.png
+INPUT .\Images\pot_centrosym.png
+INPUT .\Images\pot_centrosym.png
+INPUT .\Images\pot_centrosym.png
+INPUT .\Images\pot_centrosym.png
+INPUT .\Images\pot_centrosym.png
+INPUT .\Images\pot_centrosym.png
+INPUT .\Images\Phase Matching\imperfect001.png
+INPUT .\Images\Phase Matching\imperfect001.png
+INPUT .\Images\Phase Matching\imperfect001.png
+INPUT .\Images\Phase Matching\imperfect001.png
+INPUT .\Images\Phase Matching\imperfect001.png
+INPUT .\Images\Phase Matching\imperfect001.png
+INPUT .\Images\Phase Matching\imperfect001.png
+INPUT .\Images\Phase Matching\imperfect002.png
+INPUT .\Images\Phase Matching\imperfect002.png
+INPUT .\Images\Phase Matching\imperfect002.png
+INPUT .\Images\Phase Matching\imperfect002.png
+INPUT .\Images\Phase Matching\imperfect002.png
+INPUT .\Images\Phase Matching\imperfect002.png
+INPUT .\Images\Phase Matching\imperfect002.png
+INPUT .\Images\Phase Matching\imperfect003.png
+INPUT .\Images\Phase Matching\imperfect003.png
+INPUT .\Images\Phase Matching\imperfect003.png
+INPUT .\Images\Phase Matching\imperfect003.png
+INPUT .\Images\Phase Matching\imperfect003.png
+INPUT .\Images\Phase Matching\imperfect003.png
+INPUT .\Images\Phase Matching\imperfect003.png
+INPUT .\Images\Phase Matching\imperfect004.png
+INPUT .\Images\Phase Matching\imperfect004.png
+INPUT .\Images\Phase Matching\imperfect004.png
+INPUT .\Images\Phase Matching\imperfect004.png
+INPUT .\Images\Phase Matching\imperfect004.png
+INPUT .\Images\Phase Matching\imperfect004.png
+INPUT .\Images\Phase Matching\imperfect004.png
+INPUT .\Images\Phase Matching\imperfect005.png
+INPUT .\Images\Phase Matching\imperfect005.png
+INPUT .\Images\Phase Matching\imperfect005.png
+INPUT .\Images\Phase Matching\imperfect005.png
+INPUT .\Images\Phase Matching\imperfect005.png
+INPUT .\Images\Phase Matching\imperfect005.png
+INPUT .\Images\Phase Matching\imperfect005.png
+INPUT .\Images\Phase Matching\imperfect006.png
+INPUT .\Images\Phase Matching\imperfect006.png
+INPUT .\Images\Phase Matching\imperfect006.png
+INPUT .\Images\Phase Matching\imperfect006.png
+INPUT .\Images\Phase Matching\imperfect006.png
+INPUT .\Images\Phase Matching\imperfect006.png
+INPUT .\Images\Phase Matching\imperfect006.png
+INPUT .\Images\Phase Matching\imperfect007.png
+INPUT .\Images\Phase Matching\imperfect007.png
+INPUT .\Images\Phase Matching\imperfect007.png
+INPUT .\Images\Phase Matching\imperfect007.png
+INPUT .\Images\Phase Matching\imperfect007.png
+INPUT .\Images\Phase Matching\imperfect007.png
+INPUT .\Images\Phase Matching\imperfect007.png
+INPUT .\Images\Phase Matching\imperfect008.png
+INPUT .\Images\Phase Matching\imperfect008.png
+INPUT .\Images\Phase Matching\imperfect008.png
+INPUT .\Images\Phase Matching\imperfect008.png
+INPUT .\Images\Phase Matching\imperfect008.png
+INPUT .\Images\Phase Matching\imperfect008.png
+INPUT .\Images\Phase Matching\imperfect008.png
+INPUT .\Images\Phase Matching\imperfect009.png
+INPUT .\Images\Phase Matching\imperfect009.png
+INPUT .\Images\Phase Matching\imperfect009.png
+INPUT .\Images\Phase Matching\imperfect009.png
+INPUT .\Images\Phase Matching\imperfect009.png
+INPUT .\Images\Phase Matching\imperfect009.png
+INPUT .\Images\Phase Matching\imperfect009.png
+INPUT .\Images\Phase Matching\imperfect010.png
+INPUT .\Images\Phase Matching\imperfect010.png
+INPUT .\Images\Phase Matching\imperfect010.png
+INPUT .\Images\Phase Matching\imperfect010.png
+INPUT .\Images\Phase Matching\imperfect010.png
+INPUT .\Images\Phase Matching\imperfect010.png
+INPUT .\Images\Phase Matching\imperfect010.png
+INPUT .\Images\Phase Matching\imperfect011.png
+INPUT .\Images\Phase Matching\imperfect011.png
+INPUT .\Images\Phase Matching\imperfect011.png
+INPUT .\Images\Phase Matching\imperfect011.png
+INPUT .\Images\Phase Matching\imperfect011.png
+INPUT .\Images\Phase Matching\imperfect011.png
+INPUT .\Images\Phase Matching\imperfect011.png
+INPUT .\Images\Phase Matching\imperfect012.png
+INPUT .\Images\Phase Matching\imperfect012.png
+INPUT .\Images\Phase Matching\imperfect012.png
+INPUT .\Images\Phase Matching\imperfect012.png
+INPUT .\Images\Phase Matching\imperfect012.png
+INPUT .\Images\Phase Matching\imperfect012.png
+INPUT .\Images\Phase Matching\imperfect012.png
+INPUT .\Images\Phase Matching\imperfect013.png
+INPUT .\Images\Phase Matching\imperfect013.png
+INPUT .\Images\Phase Matching\imperfect013.png
+INPUT .\Images\Phase Matching\imperfect013.png
+INPUT .\Images\Phase Matching\imperfect013.png
+INPUT .\Images\Phase Matching\imperfect013.png
+INPUT .\Images\Phase Matching\imperfect013.png
+INPUT .\Images\Phase Matching\imperfect014.png
+INPUT .\Images\Phase Matching\imperfect014.png
+INPUT .\Images\Phase Matching\imperfect014.png
+INPUT .\Images\Phase Matching\imperfect014.png
+INPUT .\Images\Phase Matching\imperfect014.png
+INPUT .\Images\Phase Matching\imperfect014.png
+INPUT .\Images\Phase Matching\imperfect014.png
+INPUT .\Images\Phase Matching\imperfect015.png
+INPUT .\Images\Phase Matching\imperfect015.png
+INPUT .\Images\Phase Matching\imperfect015.png
+INPUT .\Images\Phase Matching\imperfect015.png
+INPUT .\Images\Phase Matching\imperfect015.png
+INPUT .\Images\Phase Matching\imperfect015.png
+INPUT .\Images\Phase Matching\imperfect015.png
+INPUT .\Images\Phase Matching\imperfect016.png
+INPUT .\Images\Phase Matching\imperfect016.png
+INPUT .\Images\Phase Matching\imperfect016.png
+INPUT .\Images\Phase Matching\imperfect016.png
+INPUT .\Images\Phase Matching\imperfect016.png
+INPUT .\Images\Phase Matching\imperfect016.png
+INPUT .\Images\Phase Matching\imperfect016.png
+INPUT .\Images\Phase Matching\imperfect017.png
+INPUT .\Images\Phase Matching\imperfect017.png
+INPUT .\Images\Phase Matching\imperfect017.png
+INPUT .\Images\Phase Matching\imperfect017.png
+INPUT .\Images\Phase Matching\imperfect017.png
+INPUT .\Images\Phase Matching\imperfect017.png
+INPUT .\Images\Phase Matching\imperfect017.png
+INPUT .\Images\Phase Matching\imperfect018.png
+INPUT .\Images\Phase Matching\imperfect018.png
+INPUT .\Images\Phase Matching\imperfect018.png
+INPUT .\Images\Phase Matching\imperfect018.png
+INPUT .\Images\Phase Matching\imperfect018.png
+INPUT .\Images\Phase Matching\imperfect018.png
+INPUT .\Images\Phase Matching\imperfect018.png
+INPUT .\Images\Phase Matching\imperfect019.png
+INPUT .\Images\Phase Matching\imperfect019.png
+INPUT .\Images\Phase Matching\imperfect019.png
+INPUT .\Images\Phase Matching\imperfect019.png
+INPUT .\Images\Phase Matching\imperfect019.png
+INPUT .\Images\Phase Matching\imperfect019.png
+INPUT .\Images\Phase Matching\imperfect019.png
+INPUT .\Images\Phase Matching\imperfect020.png
+INPUT .\Images\Phase Matching\imperfect020.png
+INPUT .\Images\Phase Matching\imperfect020.png
+INPUT .\Images\Phase Matching\imperfect020.png
+INPUT .\Images\Phase Matching\imperfect020.png
+INPUT .\Images\Phase Matching\imperfect020.png
+INPUT .\Images\Phase Matching\imperfect020.png
+INPUT .\Images\Phase Matching\imperfect021.png
+INPUT .\Images\Phase Matching\imperfect021.png
+INPUT .\Images\Phase Matching\imperfect021.png
+INPUT .\Images\Phase Matching\perfect001.png
+INPUT .\Images\Phase Matching\perfect001.png
+INPUT .\Images\Phase Matching\perfect001.png
+INPUT .\Images\Phase Matching\perfect001.png
+INPUT .\Images\Phase Matching\perfect001.png
+INPUT .\Images\Phase Matching\perfect001.png
+INPUT .\Images\Phase Matching\perfect001.png
+INPUT .\Images\Phase Matching\perfect002.png
+INPUT .\Images\Phase Matching\perfect002.png
+INPUT .\Images\Phase Matching\perfect002.png
+INPUT .\Images\Phase Matching\perfect002.png
+INPUT .\Images\Phase Matching\perfect002.png
+INPUT .\Images\Phase Matching\perfect002.png
+INPUT .\Images\Phase Matching\perfect002.png
+INPUT .\Images\Phase Matching\perfect003.png
+INPUT .\Images\Phase Matching\perfect003.png
+INPUT .\Images\Phase Matching\perfect003.png
+INPUT .\Images\Phase Matching\perfect003.png
+INPUT .\Images\Phase Matching\perfect003.png
+INPUT .\Images\Phase Matching\perfect003.png
+INPUT .\Images\Phase Matching\perfect003.png
+INPUT .\Images\Phase Matching\perfect004.png
+INPUT .\Images\Phase Matching\perfect004.png
+INPUT .\Images\Phase Matching\perfect004.png
+INPUT .\Images\Phase Matching\perfect004.png
+INPUT .\Images\Phase Matching\perfect004.png
+INPUT .\Images\Phase Matching\perfect004.png
+INPUT .\Images\Phase Matching\perfect004.png
+INPUT .\Images\Phase Matching\perfect005.png
+INPUT .\Images\Phase Matching\perfect005.png
+INPUT .\Images\Phase Matching\perfect005.png
+INPUT .\Images\Phase Matching\perfect005.png
+INPUT .\Images\Phase Matching\perfect005.png
+INPUT .\Images\Phase Matching\perfect005.png
+INPUT .\Images\Phase Matching\perfect005.png
+INPUT .\Images\Phase Matching\perfect006.png
+INPUT .\Images\Phase Matching\perfect006.png
+INPUT .\Images\Phase Matching\perfect006.png
+INPUT .\Images\Phase Matching\perfect006.png
+INPUT .\Images\Phase Matching\perfect006.png
+INPUT .\Images\Phase Matching\perfect006.png
+INPUT .\Images\Phase Matching\perfect006.png
+INPUT .\Images\Phase Matching\perfect007.png
+INPUT .\Images\Phase Matching\perfect007.png
+INPUT .\Images\Phase Matching\perfect007.png
+INPUT .\Images\Phase Matching\perfect007.png
+INPUT .\Images\Phase Matching\perfect007.png
+INPUT .\Images\Phase Matching\perfect007.png
+INPUT .\Images\Phase Matching\perfect007.png
+INPUT .\Images\Phase Matching\perfect008.png
+INPUT .\Images\Phase Matching\perfect008.png
+INPUT .\Images\Phase Matching\perfect008.png
+INPUT .\Images\Phase Matching\perfect008.png
+INPUT .\Images\Phase Matching\perfect008.png
+INPUT .\Images\Phase Matching\perfect008.png
+INPUT .\Images\Phase Matching\perfect008.png
+INPUT .\Images\Phase Matching\perfect009.png
+INPUT .\Images\Phase Matching\perfect009.png
+INPUT .\Images\Phase Matching\perfect009.png
+INPUT .\Images\Phase Matching\perfect009.png
+INPUT .\Images\Phase Matching\perfect009.png
+INPUT .\Images\Phase Matching\perfect009.png
+INPUT .\Images\Phase Matching\perfect009.png
+INPUT .\Images\Phase Matching\perfect010.png
+INPUT .\Images\Phase Matching\perfect010.png
+INPUT .\Images\Phase Matching\perfect010.png
+INPUT .\Images\Phase Matching\perfect010.png
+INPUT .\Images\Phase Matching\perfect010.png
+INPUT .\Images\Phase Matching\perfect010.png
+INPUT .\Images\Phase Matching\perfect010.png
+INPUT .\Images\Phase Matching\perfect011.png
+INPUT .\Images\Phase Matching\perfect011.png
+INPUT .\Images\Phase Matching\perfect011.png
+INPUT .\Images\Phase Matching\perfect011.png
+INPUT .\Images\Phase Matching\perfect011.png
+INPUT .\Images\Phase Matching\perfect011.png
+INPUT .\Images\Phase Matching\perfect011.png
+INPUT .\Images\Phase Matching\perfect012.png
+INPUT .\Images\Phase Matching\perfect012.png
+INPUT .\Images\Phase Matching\perfect012.png
+INPUT .\Images\Phase Matching\perfect012.png
+INPUT .\Images\Phase Matching\perfect012.png
+INPUT .\Images\Phase Matching\perfect012.png
+INPUT .\Images\Phase Matching\perfect012.png
+INPUT .\Images\Phase Matching\perfect013.png
+INPUT .\Images\Phase Matching\perfect013.png
+INPUT .\Images\Phase Matching\perfect013.png
+INPUT .\Images\Phase Matching\perfect013.png
+INPUT .\Images\Phase Matching\perfect013.png
+INPUT .\Images\Phase Matching\perfect013.png
+INPUT .\Images\Phase Matching\perfect013.png
+INPUT .\Images\Phase Matching\perfect014.png
+INPUT .\Images\Phase Matching\perfect014.png
+INPUT .\Images\Phase Matching\perfect014.png
+INPUT .\Images\Phase Matching\perfect014.png
+INPUT .\Images\Phase Matching\perfect014.png
+INPUT .\Images\Phase Matching\perfect014.png
+INPUT .\Images\Phase Matching\perfect014.png
+INPUT .\Images\Phase Matching\perfect015.png
+INPUT .\Images\Phase Matching\perfect015.png
+INPUT .\Images\Phase Matching\perfect015.png
+INPUT .\Images\Phase Matching\perfect015.png
+INPUT .\Images\Phase Matching\perfect015.png
+INPUT .\Images\Phase Matching\perfect015.png
+INPUT .\Images\Phase Matching\perfect015.png
+INPUT .\Images\Phase Matching\perfect016.png
+INPUT .\Images\Phase Matching\perfect016.png
+INPUT .\Images\Phase Matching\perfect016.png
+INPUT .\Images\Phase Matching\perfect016.png
+INPUT .\Images\Phase Matching\perfect016.png
+INPUT .\Images\Phase Matching\perfect016.png
+INPUT .\Images\Phase Matching\perfect016.png
+INPUT .\Images\Phase Matching\perfect017.png
+INPUT .\Images\Phase Matching\perfect017.png
+INPUT .\Images\Phase Matching\perfect017.png
+INPUT .\Images\Phase Matching\perfect017.png
+INPUT .\Images\Phase Matching\perfect017.png
+INPUT .\Images\Phase Matching\perfect017.png
+INPUT .\Images\Phase Matching\perfect017.png
+INPUT .\Images\Phase Matching\perfect018.png
+INPUT .\Images\Phase Matching\perfect018.png
+INPUT .\Images\Phase Matching\perfect018.png
+INPUT .\Images\Phase Matching\perfect018.png
+INPUT .\Images\Phase Matching\perfect018.png
+INPUT .\Images\Phase Matching\perfect018.png
+INPUT .\Images\Phase Matching\perfect018.png
+INPUT .\Images\Phase Matching\perfect019.png
+INPUT .\Images\Phase Matching\perfect019.png
+INPUT .\Images\Phase Matching\perfect019.png
+INPUT .\Images\Phase Matching\perfect019.png
+INPUT .\Images\Phase Matching\perfect019.png
+INPUT .\Images\Phase Matching\perfect019.png
+INPUT .\Images\Phase Matching\perfect019.png
+INPUT .\Images\Phase Matching\perfect020.png
+INPUT .\Images\Phase Matching\perfect020.png
+INPUT .\Images\Phase Matching\perfect020.png
+INPUT .\Images\Phase Matching\perfect020.png
+INPUT .\Images\Phase Matching\perfect020.png
+INPUT .\Images\Phase Matching\perfect020.png
+INPUT .\Images\Phase Matching\perfect020.png
+INPUT .\Images\Phase Matching\perfect021.png
+INPUT .\Images\Phase Matching\perfect021.png
+INPUT .\Images\Phase Matching\perfect021.png
+INPUT .\Images\Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png
+INPUT .\Images\Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png
+INPUT .\Images\Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png
+INPUT .\Images\Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png
+INPUT .\Images\Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png
+INPUT .\Images\Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png
+INPUT .\Images\Experimental-setup-measuring-SHG-and-THG-intensity-relative-to-laser-energy.png
+INPUT .\Images\PXL_20250318_131716572.NIGHT.jpg
+INPUT .\Images\PXL_20250318_131716572.NIGHT.jpg
+INPUT .\Images\PXL_20250318_131716572.NIGHT.jpg
+INPUT .\Images\PXL_20250318_131716572.NIGHT.jpg
+INPUT .\Images\PXL_20250318_131716572.NIGHT.jpg
+INPUT .\Images\PXL_20250318_131716572.NIGHT.jpg
+INPUT .\Images\PXL_20250318_131716572.NIGHT.jpg
+INPUT .\Images\THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png
+INPUT .\Images\THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png
+INPUT .\Images\THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png
+INPUT .\Images\THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png
+INPUT .\Images\THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png
+INPUT .\Images\THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png
+INPUT .\Images\THG-and-SHG-signals-in-the-zebrafish-embryo-during-cleavage-stages-A-Sagittal-THG.png
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-t1--base.tfm
+INPUT .\Images\shg vs tpa.png
+INPUT .\Images\shg vs tpa.png
+INPUT .\Images\shg vs tpa.png
+INPUT .\Images\shg vs tpa.png
+INPUT .\Images\shg vs tpa.png
+INPUT .\Images\shg vs tpa.png
+INPUT .\Images\shg vs tpa.png
+INPUT .\Images\40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg
+INPUT .\Images\40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg
+INPUT .\Images\40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg
+INPUT .\Images\40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg
+INPUT .\Images\40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg
+INPUT .\Images\40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg
+INPUT .\Images\40EB55CB-B2EC-4C0E-BFFB-EA95D7FE419A.jpeg
+INPUT .\Images\seq_thg.png
+INPUT .\Images\seq_thg.png
+INPUT .\Images\seq_thg.png
+INPUT .\Images\seq_thg.png
+INPUT .\Images\seq_thg.png
+INPUT .\Images\seq_thg.png
+INPUT .\Images\seq_thg.png
+INPUT .\Images\hhg.png
+INPUT .\Images\hhg.png
+INPUT .\Images\hhg.png
+INPUT .\Images\hhg.png
+INPUT .\Images\hhg.png
+INPUT .\Images\hhg.png
+INPUT .\Images\hhg.png
+INPUT .\Images\sum-freq.png
+INPUT .\Images\sum-freq.png
+INPUT .\Images\sum-freq.png
+INPUT .\Images\sum-freq.png
+INPUT .\Images\sum-freq.png
+INPUT .\Images\sum-freq.png
+INPUT .\Images\sum-freq.png
+INPUT .\Images\diff-freq.png
+INPUT .\Images\diff-freq.png
+INPUT .\Images\diff-freq.png
+INPUT .\Images\diff-freq.png
+INPUT .\Images\diff-freq.png
+INPUT .\Images\diff-freq.png
+INPUT .\Images\diff-freq.png
+INPUT .\Images\propagation distance.png
+INPUT .\Images\propagation distance.png
+INPUT .\Images\propagation distance.png
+INPUT .\Images\propagation distance.png
+INPUT .\Images\propagation distance.png
+INPUT .\Images\propagation distance.png
+INPUT .\Images\propagation distance.png
+INPUT .\Images\surface-shg.png
+INPUT .\Images\surface-shg.png
+INPUT .\Images\surface-shg.png
+INPUT .\Images\surface-shg.png
+INPUT .\Images\surface-shg.png
+INPUT .\Images\surface-shg.png
+INPUT .\Images\surface-shg.png
+INPUT .\Images\wavevector mismatch.png
+INPUT .\Images\wavevector mismatch.png
+INPUT .\Images\wavevector mismatch.png
+INPUT .\Images\wavevector mismatch.png
+INPUT .\Images\wavevector mismatch.png
+INPUT .\Images\wavevector mismatch.png
+INPUT .\Images\wavevector mismatch.png
+INPUT .\Images\PXL_20250227_153205340.jpg
+INPUT .\Images\PXL_20250227_153205340.jpg
+INPUT .\Images\PXL_20250227_153205340.jpg
+INPUT .\Images\PXL_20250227_153205340.jpg
+INPUT .\Images\PXL_20250227_153205340.jpg
+INPUT .\Images\PXL_20250227_153205340.jpg
+INPUT .\Images\PXL_20250227_153205340.jpg
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-BoldItalic-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Bold-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1000.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Italic-osf-t1.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-BoldItalic-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-BoldItalic-osf-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Regular-osf-sc-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Regular-osf-sc-t1--base.tfm
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\vf\public\fira\FiraSans-Italic-osf-t1.vf
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fira\FiraSans-Italic-osf-t1--base.tfm
+OUTPUT praes.nav
+OUTPUT praes.toc
+OUTPUT praes.snm
+INPUT praes.aux
+INPUT .\praes.out
+INPUT .\praes.out
+INPUT praes.run.xml
+OUTPUT praes.run.xml
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-Bold.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-Bold.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-BoldItalic.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-BoldItalic.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-Italic.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-Italic.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-Regular.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\fira\FiraSans-Regular.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\cm-super\sftt0800.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\cm-super\sftt0800.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\cm-super\sftt1000.pfb
+INPUT C:\Users\flo\AppData\Local\Programs\MiKTeX\fonts\type1\public\cm-super\sftt1000.pfb
